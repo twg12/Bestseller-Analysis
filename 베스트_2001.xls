@@ -1,0 +1,620 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>인터넷 교보문고</title>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+
+<style>
+.xl01 {font-size:10.0pt; font-family:굴림, monospace;	mso-font-charset:129;}
+.xl02 {font-size:10.0pt; font-family:굴림, monospace;	mso-font-charset:129;	mso-number-format:"\@";}
+</style>
+
+</head>
+<body>
+
+
+
+
+	<table width="1100" border="1" cellspacing="1" cellpadding="0">
+		<tr>
+			<td colspan="8"  align="center" bgcolor="#dcdcdc">
+				교보문고  종합  연간   2001년  분야 종합  베스트 셀러  
+			</td>
+		</tr>
+		<tr>
+			<td  align="center" bgcolor="#aaaaaa" >순위</td>
+			<td  align="center" bgcolor="#aaaaaa" >ISBN</td>
+			<td  align="center" bgcolor="#aaaaaa" >도서명</td>
+			<td  align="center" bgcolor="#aaaaaa" >저자명</td>
+			<td  align="center" bgcolor="#aaaaaa" >출판사명</td>
+			<td  align="center" bgcolor="#aaaaaa" >출간일</td>
+			<td  align="center" bgcolor="#aaaaaa" >분야</td>
+			<td  align="center" bgcolor="#aaaaaa" >정가</td>
+		</tr>
+		
+		<tr>
+			<td colspan="8"  align="center" bgcolor="#dcdcdc">
+				분야 종합
+			</td>
+		</tr>
+		
+
+	
+	
+	
+ 	<tr>
+		<td align="center" class=xl01>1</td>
+		<td class=xl02>9788980103034</td>
+		<td class=xl02>누가 내 치즈를 옮겼을까</td>
+		<td class=xl02>스펜서 존슨</td>
+		<td class=xl02>진명출판사</td>
+		<td class=xl02>20000315</td>
+		<td class=xl02>자기계발</td>
+		<td class=xl01>\7,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>2</td>
+		<td class=xl02>9788985804516</td>
+		<td class=xl02>상도 1</td>
+		<td class=xl02>최인호</td>
+		<td class=xl02>여백</td>
+		<td class=xl02>20070630</td>
+		<td class=xl02>소설</td>
+		<td class=xl01>\7,500</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>3</td>
+		<td class=xl02>9788988045930</td>
+		<td class=xl02>국화꽃 향기. 1</td>
+		<td class=xl02>김하인</td>
+		<td class=xl02>생각의나무</td>
+		<td class=xl02>20090420</td>
+		<td class=xl02>소설</td>
+		<td class=xl01>\8,800</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>4</td>
+		<td class=xl02>9788982732362</td>
+		<td class=xl02>부자 아빠 가난한 아빠. 1</td>
+		<td class=xl02>로버트 기요사키</td>
+		<td class=xl02>황금가지</td>
+		<td class=xl02>20090302</td>
+		<td class=xl02>경제/경영</td>
+		<td class=xl01>\12,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>5</td>
+		<td class=xl02>9788987180922</td>
+		<td class=xl02>블루데이북(The Blue Day Book Series 1)</td>
+		<td class=xl02>브래들리 트레버 그리브</td>
+		<td class=xl02>바다출판사</td>
+		<td class=xl02>20020504</td>
+		<td class=xl02>시/에세이</td>
+		<td class=xl01>\6,800</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>6</td>
+		<td class=xl02>9788984370067</td>
+		<td class=xl02>가시고기</td>
+		<td class=xl02>조창인</td>
+		<td class=xl02>밝은세상</td>
+		<td class=xl02>20000110</td>
+		<td class=xl02>소설</td>
+		<td class=xl01>\7,500</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>7</td>
+		<td class=xl02>9788901029351</td>
+		<td class=xl02>이윤기의 그리스 로마 신화. 1</td>
+		<td class=xl02>이윤기</td>
+		<td class=xl02>웅진닷컴</td>
+		<td class=xl02>20000626</td>
+		<td class=xl02>역사/문화</td>
+		<td class=xl01>\12,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>8</td>
+		<td class=xl02>9788980381319</td>
+		<td class=xl02>느리게 산다는 것의 의미</td>
+		<td class=xl02>피에르 쌍소</td>
+		<td class=xl02>동문선</td>
+		<td class=xl02>20000620</td>
+		<td class=xl02>시/에세이</td>
+		<td class=xl01>\7,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>9</td>
+		<td class=xl02>9788983920683</td>
+		<td class=xl02>해리포터와 마법사의 돌 제1권 1</td>
+		<td class=xl02>조앤 K. 롤링</td>
+		<td class=xl02>문학수첩</td>
+		<td class=xl02>20091005</td>
+		<td class=xl02>소설</td>
+		<td class=xl01>\8,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>10</td>
+		<td class=xl02>9788986481655</td>
+		<td class=xl02>힐링 소사이어티</td>
+		<td class=xl02>이승헌</td>
+		<td class=xl02>한문화</td>
+		<td class=xl02>20010208</td>
+		<td class=xl02>자기계발</td>
+		<td class=xl01>\7,800</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>11</td>
+		<td class=xl02>9788988798553</td>
+		<td class=xl02>펄떡이는 물고기처럼</td>
+		<td class=xl02>스티븐 C. 런딘</td>
+		<td class=xl02>한언</td>
+		<td class=xl02>20001106</td>
+		<td class=xl02>자기계발</td>
+		<td class=xl01>\8,900</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>12</td>
+		<td class=xl02>9788982208256</td>
+		<td class=xl02>ENGLISH EXPRESSION DICTIONARY</td>
+		<td class=xl02>신재용</td>
+		<td class=xl02>넥서스</td>
+		<td class=xl02>20010228</td>
+		<td class=xl02>외국어</td>
+		<td class=xl01>\21,500</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>13</td>
+		<td class=xl02>9788982208249</td>
+		<td class=xl02>WORD SMART</td>
+		<td class=xl02>애덤 로빈슨 외</td>
+		<td class=xl02>넥서스</td>
+		<td class=xl02>20010131</td>
+		<td class=xl02>외국어</td>
+		<td class=xl01>\29,500</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>14</td>
+		<td class=xl02>9788970123691</td>
+		<td class=xl02>상실의 시대(원제: 노르웨이의 숲)(3판)</td>
+		<td class=xl02>무라카미 하루키</td>
+		<td class=xl02>문학사상사</td>
+		<td class=xl02>20100720</td>
+		<td class=xl02>소설</td>
+		<td class=xl01>\15,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>15</td>
+		<td class=xl02>9788986167542</td>
+		<td class=xl02>영어공부 절대로 하지마라(일반용)(TAPE2개포함)</td>
+		<td class=xl02>정찬용</td>
+		<td class=xl02>사회평론</td>
+		<td class=xl02>19990719</td>
+		<td class=xl02>외국어</td>
+		<td class=xl01>\9,800</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>16</td>
+		<td class=xl02>9788995015902</td>
+		<td class=xl02>창가의 토토</td>
+		<td class=xl02>구로야나기 테츠코</td>
+		<td class=xl02>프로메테우스출판사</td>
+		<td class=xl02>20000601</td>
+		<td class=xl02>소설</td>
+		<td class=xl01>\7,500</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>17</td>
+		<td class=xl02>9788985599511</td>
+		<td class=xl02>거울</td>
+		<td class=xl02>원성</td>
+		<td class=xl02>이레</td>
+		<td class=xl02>20010710</td>
+		<td class=xl02>시/에세이</td>
+		<td class=xl01>\9,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>18</td>
+		<td class=xl02>9788939203976</td>
+		<td class=xl02>아주 오래된 농담</td>
+		<td class=xl02>박완서</td>
+		<td class=xl02>실천문학사</td>
+		<td class=xl02>20001026</td>
+		<td class=xl02>소설</td>
+		<td class=xl01>\8,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>19</td>
+		<td class=xl02>9788931003529</td>
+		<td class=xl02>호밀밭의 파수꾼(문예세계문학선 3)</td>
+		<td class=xl02>J. D. 샐린저</td>
+		<td class=xl02>문예출판사</td>
+		<td class=xl02>19980810</td>
+		<td class=xl02>소설</td>
+		<td class=xl01>\8,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>20</td>
+		<td class=xl02>9788950904548</td>
+		<td class=xl02>겅호</td>
+		<td class=xl02>켄 블랜차드</td>
+		<td class=xl02>21세기북스</td>
+		<td class=xl02>20010228</td>
+		<td class=xl02>자기계발</td>
+		<td class=xl01>\8,500</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>21</td>
+		<td class=xl02>9788988798560</td>
+		<td class=xl02>아들아 머뭇거리기에는 인생이 너무 짧다</td>
+		<td class=xl02>강헌구</td>
+		<td class=xl02>한언</td>
+		<td class=xl02>20001106</td>
+		<td class=xl02>자기계발</td>
+		<td class=xl01>\9,800</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>22</td>
+		<td class=xl02>9788987999913</td>
+		<td class=xl02>협상의 법칙</td>
+		<td class=xl02>허브 코헨</td>
+		<td class=xl02>청년정신</td>
+		<td class=xl02>20010910</td>
+		<td class=xl02>자기계발</td>
+		<td class=xl01>\12,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>23</td>
+		<td class=xl02>9788934904755</td>
+		<td class=xl02>TOEIC 답이 보인다 21세기형(T:3포함)(개정판)(2판)</td>
+		<td class=xl02>김대균</td>
+		<td class=xl02>김영사</td>
+		<td class=xl02>20010810</td>
+		<td class=xl02>외국어</td>
+		<td class=xl01>\14,900</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>24</td>
+		<td class=xl02>9788943801861</td>
+		<td class=xl02>그리스 로마 신화 1(올림포스의 신들)</td>
+		<td class=xl02>토머스 볼핀치</td>
+		<td class=xl02>가나출판사</td>
+		<td class=xl02>20001101</td>
+		<td class=xl02>어린이(초등)</td>
+		<td class=xl01>\8,500</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>25</td>
+		<td class=xl02>9788977181434</td>
+		<td class=xl02>일 잘하는 사람 일 못하는 사람</td>
+		<td class=xl02>호리바 마사오</td>
+		<td class=xl02>오늘의책</td>
+		<td class=xl02>20010428</td>
+		<td class=xl02>자기계발</td>
+		<td class=xl01>\10,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>26</td>
+		<td class=xl02>9788970631578</td>
+		<td class=xl02>지금 알고 있는 걸 그때도 알았더라면(잠언시집)</td>
+		<td class=xl02>류시화</td>
+		<td class=xl02>열림원</td>
+		<td class=xl02>19980410</td>
+		<td class=xl02>시/에세이</td>
+		<td class=xl01>\7,500</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>27</td>
+		<td class=xl02>9788970123783</td>
+		<td class=xl02>부석사(제25회이상문학상수상작품집 2001년도)</td>
+		<td class=xl02>신경숙</td>
+		<td class=xl02>문학사상사</td>
+		<td class=xl02>20010205</td>
+		<td class=xl02>소설</td>
+		<td class=xl01>\12,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>28</td>
+		<td class=xl02>9788987268545</td>
+		<td class=xl02>화성에서 온 남자 금성에서 온 여자</td>
+		<td class=xl02>존 그레이</td>
+		<td class=xl02>친구</td>
+		<td class=xl02>19931201</td>
+		<td class=xl02>자기계발</td>
+		<td class=xl01>\9,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>29</td>
+		<td class=xl02>9788970752297</td>
+		<td class=xl02>너 그거 아니 ?</td>
+		<td class=xl02>디비딕 닷컴 네티즌</td>
+		<td class=xl02>문학세계사</td>
+		<td class=xl02>20010720</td>
+		<td class=xl02>자기계발</td>
+		<td class=xl01>\8,200</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>30</td>
+		<td class=xl02>9788971843277</td>
+		<td class=xl02>한비야의 중국견문록</td>
+		<td class=xl02>한비야</td>
+		<td class=xl02>푸른숲</td>
+		<td class=xl02>20010824</td>
+		<td class=xl02>여행</td>
+		<td class=xl01>\8,800</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>31</td>
+		<td class=xl02>9788987905396</td>
+		<td class=xl02>사슴벌레여자</td>
+		<td class=xl02>윤대녕</td>
+		<td class=xl02>이룸</td>
+		<td class=xl02>20010430</td>
+		<td class=xl02>소설</td>
+		<td class=xl01>\7,500</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>32</td>
+		<td class=xl02>9788936433390</td>
+		<td class=xl02>마이너 리그</td>
+		<td class=xl02>은희경</td>
+		<td class=xl02>창작과비평사</td>
+		<td class=xl02>20010410</td>
+		<td class=xl02>소설</td>
+		<td class=xl01>\12,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>33</td>
+		<td class=xl02>9788952814654</td>
+		<td class=xl02>디지몬 캐릭터 대도감</td>
+		<td class=xl02>대원씨아이 편집부</td>
+		<td class=xl02>대원씨아이(사용안함)</td>
+		<td class=xl02>20001201</td>
+		<td class=xl02>어린이(초등)</td>
+		<td class=xl01>\5,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>34</td>
+		<td class=xl02>9788935204304</td>
+		<td class=xl02>프로페셔널의 조건</td>
+		<td class=xl02>피터 드러커</td>
+		<td class=xl02>청림출판</td>
+		<td class=xl02>20010130</td>
+		<td class=xl02>자기계발</td>
+		<td class=xl01>\12,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>35</td>
+		<td class=xl02>9788982814167</td>
+		<td class=xl02>바이올렛</td>
+		<td class=xl02>신경숙</td>
+		<td class=xl02>문학동네</td>
+		<td class=xl02>20121116</td>
+		<td class=xl02>소설</td>
+		<td class=xl01>\12,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>36</td>
+		<td class=xl02>9788995145104</td>
+		<td class=xl02>미국 영어발음 무작정 따라하기(T:2포함)</td>
+		<td class=xl02>릭킴 외</td>
+		<td class=xl02>길벗</td>
+		<td class=xl02>20000725</td>
+		<td class=xl02>외국어</td>
+		<td class=xl01>\12,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>37</td>
+		<td class=xl02>9788979441147</td>
+		<td class=xl02>사람은 무엇으로 사는가 1</td>
+		<td class=xl02>톨스토이</td>
+		<td class=xl02>책만드는집</td>
+		<td class=xl02>20000810</td>
+		<td class=xl02>소설</td>
+		<td class=xl01>\6,500</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>38</td>
+		<td class=xl02>9788952907110</td>
+		<td class=xl02>디지몬 어드벤처를 찾아라 1</td>
+		<td class=xl02>학산문화사 편집부</td>
+		<td class=xl02>학산문화사</td>
+		<td class=xl02>20010115</td>
+		<td class=xl02>유아(0~7세)</td>
+		<td class=xl01>\8,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>39</td>
+		<td class=xl02>9788932903187</td>
+		<td class=xl02>향수(양장본 HardCover)</td>
+		<td class=xl02>파트리크 쥐스킨트</td>
+		<td class=xl02>열린책들</td>
+		<td class=xl02>20080520</td>
+		<td class=xl02>소설</td>
+		<td class=xl01>\12,800</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>40</td>
+		<td class=xl02>9788987144511</td>
+		<td class=xl02>꿈을 도둑맞은 사람들에게</td>
+		<td class=xl02>잭 캔필드</td>
+		<td class=xl02>현재</td>
+		<td class=xl02>20001001</td>
+		<td class=xl02>자기계발</td>
+		<td class=xl01>\8,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>41</td>
+		<td class=xl02>9788938802972</td>
+		<td class=xl02>야베스의 기도</td>
+		<td class=xl02>브루스 윌킨슨</td>
+		<td class=xl02>디모데</td>
+		<td class=xl02>20010225</td>
+		<td class=xl02>종교</td>
+		<td class=xl01>\6,500</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>42</td>
+		<td class=xl02>9788934906445</td>
+		<td class=xl02>원칙중심의 리더십</td>
+		<td class=xl02>스티븐 코비</td>
+		<td class=xl02>김영사</td>
+		<td class=xl02>20010115</td>
+		<td class=xl02>자기계발</td>
+		<td class=xl01>\12,900</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>43</td>
+		<td class=xl02>9788984370111</td>
+		<td class=xl02>등대지기</td>
+		<td class=xl02>조창인</td>
+		<td class=xl02>밝은세상</td>
+		<td class=xl02>20010905</td>
+		<td class=xl02>소설</td>
+		<td class=xl01>\9,500</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>44</td>
+		<td class=xl02>9788950904531</td>
+		<td class=xl02>경제기사는 돈이다(2001)(개정판)</td>
+		<td class=xl02>송양민</td>
+		<td class=xl02>21세기북스</td>
+		<td class=xl02>20010215</td>
+		<td class=xl02>경제/경영</td>
+		<td class=xl01>\10,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>45</td>
+		<td class=xl02>9788908041318</td>
+		<td class=xl02>무소유(2판)(양장본 HardCover)</td>
+		<td class=xl02>법정</td>
+		<td class=xl02>범우사</td>
+		<td class=xl02>19990805</td>
+		<td class=xl02>시/에세이</td>
+		<td class=xl01>\8,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>46</td>
+		<td class=xl02>9788936433413</td>
+		<td class=xl02>손님</td>
+		<td class=xl02>황석영</td>
+		<td class=xl02>창작과비평사</td>
+		<td class=xl02>20070525</td>
+		<td class=xl02>소설</td>
+		<td class=xl01>\13,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>47</td>
+		<td class=xl02>9788988798607</td>
+		<td class=xl02>BODY FOR LIFE</td>
+		<td class=xl02>BILL PHILLIPS</td>
+		<td class=xl02>한국언론자료간행회</td>
+		<td class=xl02>20010205</td>
+		<td class=xl02>건강</td>
+		<td class=xl01>\12,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>48</td>
+		<td class=xl02>9788970632445</td>
+		<td class=xl02>선의 나침반 1</td>
+		<td class=xl02>현각</td>
+		<td class=xl02>열림원</td>
+		<td class=xl02>20010315</td>
+		<td class=xl02>종교</td>
+		<td class=xl01>\7,500</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>49</td>
+		<td class=xl02>9788917272635</td>
+		<td class=xl02>TOEIC 터미네이터(R/C)</td>
+		<td class=xl02>최종민</td>
+		<td class=xl02>시사영어사</td>
+		<td class=xl02>19990625</td>
+		<td class=xl02>외국어</td>
+		<td class=xl01>\15,000</td>
+	</tr>
+    
+ 	<tr>
+		<td align="center" class=xl01>50</td>
+		<td class=xl02>9788936800819</td>
+		<td class=xl02>이슬람</td>
+		<td class=xl02>이희수</td>
+		<td class=xl02>청아출판사</td>
+		<td class=xl02>20080410</td>
+		<td class=xl02>역사/문화</td>
+		<td class=xl01>\13,000</td>
+	</tr>
+    
+	
+
+	</table>
+
+
+
+
+</body>
+</html>
