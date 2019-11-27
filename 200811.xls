@@ -1,0 +1,1246 @@
+
+<table width="1450" border="1" cellpadding="1" cellspacing="1" bgcolor="E1E1E1">
+    <tr bgcolor="F3F3F3">
+        <td align="center"  bgcolor="F3F3F3" class="stext" style="padding: 7 0 5 0; width:50px;">순위</td>
+        <td align="center"  bgcolor="F3F3F3" class="stext" style="padding: 7 0 5 0; width:120px;">ISBN</td>
+        <td align="center"  bgcolor="F3F3F3" class="stext" style="padding: 7 0 5 0; width:100px;">상품번호</td>
+        <td align="center" bgcolor="F3F3F3" class="stext" style="padding: 7 0 5 0; width: 150px;">상품명</td>
+        <td align="center" bgcolor="F3F3F3" class="stext" style="padding: 7 0 5 0; width: 100px;">판매가</td>
+        <td align="center" bgcolor="F3F3F3" class="stext" style="padding: 7 0 5 0; width: 100px;">YES포인트</td>
+        <td align="center" bgcolor="F3F3F3" class="stext" style="padding: 7 0 5 0; width: 100px;">저자</td>
+        <td align="center" bgcolor="F3F3F3" class="stext" style="padding: 7 0 5 0; width: 100px;">출판사</td>
+        <td align="center" bgcolor="F3F3F3" class="stext" style="padding: 7 0 5 0; width: 750px">설명</td>
+        <td align="center" bgcolor="F3F3F3" class="stext" style="padding: 7 0 5 0; width: 80px">출고예상일</td>
+        <td align="center" bgcolor="F3F3F3" class="stext" style="padding: 7 0 5 0; width: 150px">관리분류</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">1</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788954606837</td>
+        <td class="stext" style="text-align: center; width: 100px;">3081243</td>
+        <td class="stext" style="text-align: center; width: 150px;">흐르는 강물처럼</td>
+        <td class="stext" style="text-align: center; width: 100px;">10,800원</td>
+        <td class="stext" style="text-align: center; width: 100px;">600원</td>
+        <td class="stext" style="text-align: center; width: 100px;">파울로 코엘료/박경희</td>
+        <td class="stext" style="text-align: center; width: 100px;">문학동네</td>
+        <td class="stext" style="text-align: center; width: 750px;">전세계 1억 독자들의 영혼을 뒤흔든 『연금술사』의 작가 
+파울로 코엘료 첫 산문집!
+그가 일상에서 건져올린 경이로운 삶의 기적들 
+
+긴 세월 먼 길을 돌아 서른여덟 살에 작가의 꿈을 이룬 파울로 코엘료. 그는 세계 각국을 돌아다니며 그 여정에서 사람들을 만나고, 그 만남들에서 영감을 얻고, 그 영감으로 소설을 쓴다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-에세이</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">2</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788901088464</td>
+        <td class="stext" style="text-align: center; width: 100px;">3070526</td>
+        <td class="stext" style="text-align: center; width: 150px;">시골의사의 주식투자란 무엇인가 1</td>
+        <td class="stext" style="text-align: center; width: 100px;">18,000원</td>
+        <td class="stext" style="text-align: center; width: 100px;">1,000원</td>
+        <td class="stext" style="text-align: center; width: 100px;">박경철</td>
+        <td class="stext" style="text-align: center; width: 100px;">리더스북</td>
+        <td class="stext" style="text-align: center; width: 750px;">글로벌 경제위기 시대, '투자자들의 멘토'로 불리우는 시골의사 박경철이 입을 열었다. 저자는 주식시장이나 경제현상의 표면에 감춰진 정치·사회·경제적 요인과 역사를 고찰하며 시장에 대한 오해와 거짓을 고발한다. 그는 투자자들에게 시장에 맞서기 보단 시장의 흐름에 몸을 맡길 것을 제안한다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-경제 경영</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">3</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788901083353</td>
+        <td class="stext" style="text-align: center; width: 100px;">3005081</td>
+        <td class="stext" style="text-align: center; width: 150px;">English Restart Basic</td>
+        <td class="stext" style="text-align: center; width: 100px;">8,100원</td>
+        <td class="stext" style="text-align: center; width: 100px;">450원</td>
+        <td class="stext" style="text-align: center; width: 100px;">I.A.Richards/Christine Gibson</td>
+        <td class="stext" style="text-align: center; width: 100px;">뉴런(NEWRUN)</td>
+        <td class="stext" style="text-align: center; width: 750px;">1945년 출간된 뒤 40개국 이상에서 출판된 베스트셀러. 문법, 단어, 발음을 몰라도 말하기, 듣기, 읽기를 한 번에 해결할 수 있으며, 한글 해석은 하나도 없고 오로지 영어 문장과 그림만 있지만 자신도 모르게  책장을 넘기게 되도록 만들어졌다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-국어 외국어 사전</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">4</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788954606417</td>
+        <td class="stext" style="text-align: center; width: 100px;">3021432</td>
+        <td class="stext" style="text-align: center; width: 150px;">개밥바라기별</td>
+        <td class="stext" style="text-align: center; width: 100px;">9,000원</td>
+        <td class="stext" style="text-align: center; width: 100px;">500원</td>
+        <td class="stext" style="text-align: center; width: 100px;">황석영</td>
+        <td class="stext" style="text-align: center; width: 100px;">문학동네</td>
+        <td class="stext" style="text-align: center; width: 750px;">탁월한 성장소설: 거장 황석영의 비밀창고를 열다
+수많은 네티즌들의 뜨거운 호응, 누적 방문자 수 180만!
+
+우리 문학계의 거장, 황석영이 드디어 그 자신의 소년시절을 소설로 썼다. 공사판과 오징어잡이배, 빵공장을 떠돌다 입산하여 행자생활을 하고, 다시 또 베트남전에 차출되었던, 아픈 방랑의 시간들이 그대로 소설이 되었다. 세상과 온몸으로 부딪혀온 그의 청춘이 고스란히 담겨 있기에, 어느 때보다 더 아프고 진한 감동이 배어나는 소설이다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">2</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-소설/시/희곡</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">5</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788984370753</td>
+        <td class="stext" style="text-align: center; width: 100px;">2133113</td>
+        <td class="stext" style="text-align: center; width: 150px;">구해줘</td>
+        <td class="stext" style="text-align: center; width: 100px;">9,900원</td>
+        <td class="stext" style="text-align: center; width: 100px;">550원</td>
+        <td class="stext" style="text-align: center; width: 100px;">기욤 뮈소/윤미연</td>
+        <td class="stext" style="text-align: center; width: 100px;">밝은세상</td>
+        <td class="stext" style="text-align: center; width: 750px;">85주 연속 프랑스 아마존 베스트셀러
+
+출간 시부터 프랑스 아마존 베스트셀러 자리를 지켜온 기욤 뮈소의 대표작. 상처와 절망 끝에 사랑에 빠진 두 남녀. 그러나 가까스로 사고를 피한 연인의 죽음을 예고하는 여형사가 등장하는데... 러브 스토리와 미스터리가 정교하게 짜여진 프랑스 최고 화제작.
+
+브로드웨이 무대에 서겠다는 꿈을 품은 채 뉴욕에 온 젊은 프랑스 여자 줄리에트와 아내의 갑작스러운 자살로 인생의 모든 꿈이 산산조각 난 의사 샘이 어느 날 운명처럼 만나 불꽃같은 사랑에 빠져들면서 이 소설은 시작된다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-소설/시/희곡</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">6</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788901083360</td>
+        <td class="stext" style="text-align: center; width: 100px;">3005086</td>
+        <td class="stext" style="text-align: center; width: 150px;">English Restart Advanced 1</td>
+        <td class="stext" style="text-align: center; width: 100px;">9,000원</td>
+        <td class="stext" style="text-align: center; width: 100px;">500원</td>
+        <td class="stext" style="text-align: center; width: 100px;">I.A.Richards/Christine Gibson</td>
+        <td class="stext" style="text-align: center; width: 100px;">뉴런(NEWRUN)</td>
+        <td class="stext" style="text-align: center; width: 750px;">1945년 출간된 뒤 40개국 이상에서 출판된 베스트셀러로, 서문에서는 '성경 다음으로 가장 많이 팔린 책'이라 소개하고 있다. 문법, 단어, 발음을 몰라도 말하기, 듣기, 읽기를 한 번에 해결할 수 있으며, 한글 해석은 하나도 없고 오로지 영어 문장과 그림만 있지만 자신도 모르게 영어와 그림을 보며 책장을 넘기게 되도록 만들어졌다. 마치 단어를 모르더라도 손짓과 발짓으로 많은 것을 표현할 수 있듯이, 영어의 뜻을 아주 심플한 그림으로 표현하여 굳이 해석을 거치지 않아도 이해할 수 있도록 하였다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-국어 외국어 사전</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">7</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788901088761</td>
+        <td class="stext" style="text-align: center; width: 100px;">3092168</td>
+        <td class="stext" style="text-align: center; width: 150px;">시골의사의 주식투자란 무엇인가 2</td>
+        <td class="stext" style="text-align: center; width: 100px;">18,000원</td>
+        <td class="stext" style="text-align: center; width: 100px;">1,000원</td>
+        <td class="stext" style="text-align: center; width: 100px;">박경철</td>
+        <td class="stext" style="text-align: center; width: 100px;">리더스북</td>
+        <td class="stext" style="text-align: center; width: 750px;">주식투자에 대한 기존 이론과 상식을 해부하고, 시골의사만의 투자방법론을 제시한다! 
+‘기술적 분석의 대가’가 ‘기술적 분석의 무용론’을 언급하며 내놓은 박경철식 주식투자법! 
+
+『시골의사의 주식투자란 무엇인가』 1권 ‘통찰 편’에서 “주식투자란 무엇인가?”를 이야기했다면, 2권 ‘분석 편’에서는 “주식투자란 이렇게 하는 것이다.”를 다루고 있다. 2권에서는 기술적ㆍ기본적 분석의 오류를 지적하고, 이를 활용함에 있어 숲을 보지 못하고 나무만을 찍어내는 단편적인 시각을 특별히 경계한다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-경제 경영</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">8</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788960510197</td>
+        <td class="stext" style="text-align: center; width: 100px;">2711149</td>
+        <td class="stext" style="text-align: center; width: 150px;">나쁜 사마리아인들</td>
+        <td class="stext" style="text-align: center; width: 100px;">12,600원</td>
+        <td class="stext" style="text-align: center; width: 100px;">700원</td>
+        <td class="stext" style="text-align: center; width: 100px;">장하준/이순희</td>
+        <td class="stext" style="text-align: center; width: 100px;">부키</td>
+        <td class="stext" style="text-align: center; width: 750px;">『사다리 걷어차기』 『쾌도난마 한국경제』의 저자 장하준 교수가 쓴 일반인을 위한 교양경제서. 자유 무역이 진정 개발도상국에게도 도움이 되는지, 경제를 개방하면 외국인 투자가 정말 늘어나는지, 공기업 문제가 과연 민영화로 해결 가능한지, 지적재산권이 실제 기술 혁신을 촉진하는지, 민주주의와 경제 발전은 어떤 특별한 상관관계가 있는지, 경제 발전에 적합한 문화나 민족성이 있는지 등 우리 시대의 현안들에 대해 우리에게 널리 알려진 책이나 영화 등을 소재로 유쾌하면서도 신랄하게 답해주고 있다....</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-경제 경영</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">9</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788901083377</td>
+        <td class="stext" style="text-align: center; width: 100px;">3005088</td>
+        <td class="stext" style="text-align: center; width: 150px;">English Restart Advanced 2</td>
+        <td class="stext" style="text-align: center; width: 100px;">9,000원</td>
+        <td class="stext" style="text-align: center; width: 100px;">500원</td>
+        <td class="stext" style="text-align: center; width: 100px;">I.A.Richards/Christine Gibson</td>
+        <td class="stext" style="text-align: center; width: 100px;">뉴런(NEWRUN)</td>
+        <td class="stext" style="text-align: center; width: 750px;">1945년 출간된 뒤 40개국 이상에서 출판된 베스트셀러로, 서문에서는 '성경 다음으로 가장 많이 팔린 책'이라 소개하고 있다. 문법, 단어, 발음을 몰라도 말하기, 듣기, 읽기를 한 번에 해결할 수 있으며, 한글 해석은 하나도 없고 오로지 영어 문장과 그림만 있지만 자신도 모르게 영어와 그림을 보며 책장을 넘기게 되도록 만들어졌다. 마치 단어를 모르더라도 손짓과 발짓으로 많은 것을 표현할 수 있듯이, 영어의 뜻을 아주 심플한 그림으로 표현하여 굳이 해석을 거치지 않아도 이해할 수 있도록 하였다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-국어 외국어 사전</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">10</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788947526470</td>
+        <td class="stext" style="text-align: center; width: 100px;">3080483</td>
+        <td class="stext" style="text-align: center; width: 150px;">부동산 대폭락 시대가 온다</td>
+        <td class="stext" style="text-align: center; width: 100px;">10,800원</td>
+        <td class="stext" style="text-align: center; width: 100px;">600원</td>
+        <td class="stext" style="text-align: center; width: 100px;">선대인/심영철</td>
+        <td class="stext" style="text-align: center; width: 100px;">한국경제신문사(한경비피)</td>
+        <td class="stext" style="text-align: center; width: 750px;">MB정부도 숨기고 싶어하는 대한민국 부동산의 진실 
+미련을 버리지 못하면 당신의 집이 날아갈 수도 있다!
+
+부동산 거품은 부풀만큼 부풀어 있다. 이젠 정부가 어떤 정책을 쓴다 하더라도 일시적인 반등은 이끌어낼 수 있을지언정 큰 흐름을 바꿀 수는 없다. 세계 경제의 동조화 현상, 주택의 공급 과잉, 낮은 기대수익률, 투기심리의 위축, 가계의 3중고, 금리 상승, 그리고 뉴타운 및 신도시 공급 쇼크, 인구구조의 변화 등 피할 수 없는 현실이 대한민국의 경제를 뒤흔들고 있다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-경제 경영</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">11</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788954606905</td>
+        <td class="stext" style="text-align: center; width: 100px;">3099043</td>
+        <td class="stext" style="text-align: center; width: 150px;">당신의 조각들</td>
+        <td class="stext" style="text-align: center; width: 100px;">10,800원</td>
+        <td class="stext" style="text-align: center; width: 100px;">600원</td>
+        <td class="stext" style="text-align: center; width: 100px;">타블로</td>
+        <td class="stext" style="text-align: center; width: 100px;">달</td>
+        <td class="stext" style="text-align: center; width: 750px;">“우린 저마다 다르고 또 달라요
+ 그래서 조금씩 다른 조각들을 맞춰가고 있는 거예요”
+ 
+스무 살이 간직했던 비밀과 스무 살이 품었던 흥분으로 써 내려간 타블로의 소설!
+지난해 MBC 「일밤-경제야 놀자」 코너에 출연해 화제를 불러일으킨 타블로의 첫 소설집 『당신의 조각들』. 그가 보물처럼 품어온 젊은 날의 비밀과 흥분을 써내려간 소설 10편을 담고 있다.
+
+뉴욕을 배경으로 벌어지는 소소한 소동극, 그리고 그 중심에는 스무 살 여린 감수성을 지닌 젊은 날의 그림자가 있다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-소설/시/희곡</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">12</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788974563301</td>
+        <td class="stext" style="text-align: center; width: 100px;">1955199</td>
+        <td class="stext" style="text-align: center; width: 150px;">아내가 결혼했다</td>
+        <td class="stext" style="text-align: center; width: 100px;">8,820원</td>
+        <td class="stext" style="text-align: center; width: 100px;">490원</td>
+        <td class="stext" style="text-align: center; width: 100px;">박현욱</td>
+        <td class="stext" style="text-align: center; width: 100px;">문이당</td>
+        <td class="stext" style="text-align: center; width: 750px;">손예진, 김주혁 주연 '아내가 결혼했다' 영화 원작!
+
+『미실』에 이은 제2회 세계문학상 수상작. 『동정 없는 세상』 등 밝고 경쾌한 성장소설로 관심을 모았던 박현욱 작가의 신작이다. 이중결혼을 하려는 아내와 이를 수용할 수밖에 없는 남편의 이상한 관계를 축구에 빗대어 묘사했다. 일부일처제의 고정관념을 깨는, 독특한 결혼 판타지.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-소설/시/희곡</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">13</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788974254896</td>
+        <td class="stext" style="text-align: center; width: 100px;">2547786</td>
+        <td class="stext" style="text-align: center; width: 150px;">꿈꾸는 다락방</td>
+        <td class="stext" style="text-align: center; width: 100px;">12,150원</td>
+        <td class="stext" style="text-align: center; width: 100px;">670원</td>
+        <td class="stext" style="text-align: center; width: 100px;">이지성</td>
+        <td class="stext" style="text-align: center; width: 100px;">국일미디어</td>
+        <td class="stext" style="text-align: center; width: 750px;">세상에는 일평생 허리가 휘도록 일하고도 자기 집 한 채 장만하지 못하는 사람들이 있는가 하면 놀 것 다 놀면서도 어마어마한 재산을 마련하고 엄청난 유명세를 타는 사람들이 존재한다. 노력이 성공의 비결이라는 것이 이론적으로도 말이 안 되는 것은 ‘세상에는 당신과 같은 나이이지만 당신보다 열 배 스무 배 성공한 사람들이 존재한다.’는 사실만 보더라도 알 수 있다. 만일 노력이 성공의 비결이라면 그들은 당신보다 열 배 스무 배 더 많이 노력한 사람들이어야만 한다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-자기계발</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">14</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788960861350</td>
+        <td class="stext" style="text-align: center; width: 100px;">3083483</td>
+        <td class="stext" style="text-align: center; width: 150px;">20대, 나만의 무대를 세워라</td>
+        <td class="stext" style="text-align: center; width: 100px;">9,000원</td>
+        <td class="stext" style="text-align: center; width: 100px;">500원</td>
+        <td class="stext" style="text-align: center; width: 100px;">유수연</td>
+        <td class="stext" style="text-align: center; width: 100px;">위즈덤하우스</td>
+        <td class="stext" style="text-align: center; width: 750px;">‘연봉 10억, 골드미스, 스타 강사’라는 화려한 타이틀을 달고 있는 유수연의 인생역전 스토리를 담은 책 『20대, 나만의 무대를 세워라』. 지금은 남부러울 것 없는 그녀지만, 20대 때는 주변에서 흔히 볼 수 있는 대학 졸업생이었다. 그랬던 그녀가 8년 동안 10개국을 돌아다니며 치열하게 보낸 결과 골드미스로 거듭난 인생역전 스토리는 희망을 잃어버린 20대들의 공감을 일으킨다.
+
+유수연은 20대 시절을 암울하게 보냈기 때문에 방황하고 있는 인생의 후배들에게 직설적이지만 현실적인 충고를 할 수 있다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-자기계발</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">15</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788973379507</td>
+        <td class="stext" style="text-align: center; width: 100px;">2867778</td>
+        <td class="stext" style="text-align: center; width: 150px;">하악하악</td>
+        <td class="stext" style="text-align: center; width: 100px;">13,050원</td>
+        <td class="stext" style="text-align: center; width: 100px;">720원</td>
+        <td class="stext" style="text-align: center; width: 100px;">이외수/정태련</td>
+        <td class="stext" style="text-align: center; width: 100px;">해냄</td>
+        <td class="stext" style="text-align: center; width: 750px;">포기하지 말라
+절망의 이빨에 심장을 물어 뜯겨본 자만이 희망을 사냥할 자격이 있다
+‘영혼의 연금술사’ 이외수와 ‘생명의 전령사’ 정태련이 자연과 생명의 소중함, 꿈꾸는 삶의 가치를 담아 탄생시킨 세밀화 에세이 2탄! 지난해 이외수의 소통법『여자도 여자를 모른다』에 대한 독자들의 열화와 같은 호응에 힘입어 다시 한 번 세상에 감동 파종을 시도한다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-에세이</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">16</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788992647335</td>
+        <td class="stext" style="text-align: center; width: 100px;">3045715</td>
+        <td class="stext" style="text-align: center; width: 150px;">가슴 뛰는 삶</td>
+        <td class="stext" style="text-align: center; width: 100px;">11,700원</td>
+        <td class="stext" style="text-align: center; width: 100px;">650원</td>
+        <td class="stext" style="text-align: center; width: 100px;">강헌구</td>
+        <td class="stext" style="text-align: center; width: 100px;">쌤앤파커스</td>
+        <td class="stext" style="text-align: center; width: 750px;">많은 이들이 성공을 꿈꾸지만, 실제 그곳에 도달하는 이는 그리 많지 않다. 저자는 꿈을 이루고 진정한 성취와 행복에 이르기 위해서 통찰-작심-돌파-질주의 네 단계를 거쳐야 한다고 제안하며, 각 과정마다 생각하고 실행할 일들을 상세히 제시한다. 지금 당신의 꿈에 체크인하고 운명을 바꿔라!</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-자기계발</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">17</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788925521190</td>
+        <td class="stext" style="text-align: center; width: 100px;">3025287</td>
+        <td class="stext" style="text-align: center; width: 150px;">화폐 전쟁</td>
+        <td class="stext" style="text-align: center; width: 100px;">18,000원</td>
+        <td class="stext" style="text-align: center; width: 100px;">1,000원</td>
+        <td class="stext" style="text-align: center; width: 100px;">쑹훙빙/차혜정/박한진</td>
+        <td class="stext" style="text-align: center; width: 100px;">랜덤하우스코리아</td>
+        <td class="stext" style="text-align: center; width: 750px;">『화폐전쟁』은 중국에서 판매 기록 속도가 가장 빠른 경제서로, 2007년 6월 초판이 발행된 이후 100만 부 이상이 팔린 초대형 베스트셀러다. 베이징을 제외한 각지에서 이 책을 구하기 어려울 정도로 경제계에 화제를 몰고 왔으며 출판계에는 큰 수익을 창출했다. 
+
+미국에서 금융 전문가로 활동하는 저자는 1997년 아시아 금융 위기를 보며, 배후에 보이지 않는 손이 조종하고 있다는 것을 직감적으로 느꼈다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-경제 경영</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">18</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788992825238</td>
+        <td class="stext" style="text-align: center; width: 100px;">2913213</td>
+        <td class="stext" style="text-align: center; width: 150px;">무지개 원리</td>
+        <td class="stext" style="text-align: center; width: 100px;">9,000원</td>
+        <td class="stext" style="text-align: center; width: 100px;">500원</td>
+        <td class="stext" style="text-align: center; width: 100px;">차동엽</td>
+        <td class="stext" style="text-align: center; width: 100px;">위즈앤비즈</td>
+        <td class="stext" style="text-align: center; width: 750px;">한국 실정에 잘 맞는 자기계발서로, 행복과 성공의 가장 빠른 길을 제시했다는 호평을 받은 『무지개 원리』가 '스마트 버전'으로 새롭게 출간되었다. 『무지개 원리』의 내용을 줄이고, 크기와 무게는 가볍게 하여 바쁜 직장인이나 학생들도 시간과 장소에 구애받지 않고 읽을 수 있게 만들었다. 전체적인 사이즈는 줄었지만 『무지개 원리』의 핵심적인 내용은 그대로 담았으며, 독자들의 지성 계발과 감성 계발, 의지계발을 위해 각 장마다 실천의 팁을 제시하고 예화와 삽화를 보강하였다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-자기계발</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">19</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788990794529</td>
+        <td class="stext" style="text-align: center; width: 100px;">2299464</td>
+        <td class="stext" style="text-align: center; width: 150px;">사랑해 사랑해 사랑해</td>
+        <td class="stext" style="text-align: center; width: 100px;">9,970원</td>
+        <td class="stext" style="text-align: center; width: 100px;">100원</td>
+        <td class="stext" style="text-align: center; width: 100px;">신형건/버나뎃 로제티 슈스탁/캐롤라인 제인 처치</td>
+        <td class="stext" style="text-align: center; width: 100px;">보물창고</td>
+        <td class="stext" style="text-align: center; width: 750px;">기억나니? 네가 아기였을 적에 엄마 품에서 셀 수도 없을 만큼 듣고 또 들은 그 말. '사랑해 사랑해 사랑해...' 귀엽고 예쁜 우리 아가를 무릎에 앉혀 놓고 얼마나 사랑하는지 표현해 주세요!
+
+숨을 쉬고, 밥을 먹고, 배설을 하는 것처럼 ‘책읽기’는 당연하게 여겨져야 하는 것 중의 하나입니다. 아기이기 때문에 어른들보다 작은 숨을 쉬고, 적게 먹을지는 모르지만 아기에게도 이 모든 것은 절대적으로 필요합니다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-유아</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">20</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788984370791</td>
+        <td class="stext" style="text-align: center; width: 100px;">2511154</td>
+        <td class="stext" style="text-align: center; width: 150px;">당신, 거기 있어줄래요?</td>
+        <td class="stext" style="text-align: center; width: 100px;">8,820원</td>
+        <td class="stext" style="text-align: center; width: 100px;">490원</td>
+        <td class="stext" style="text-align: center; width: 100px;">기욤 뮈소/전미연</td>
+        <td class="stext" style="text-align: center; width: 100px;">밝은세상</td>
+        <td class="stext" style="text-align: center; width: 750px;">죽음을 눈앞에 둔 외과의사 엘리엇의 간절한 바람이 있다면 사랑했던 연인 일리나를 다시 한 번 보는 것이다. 제대로 사랑하는 방법을 몰라 연인을 떠나보내야 했던 젊은 시절은 그에게 씻지 못할 회한으로 남았다. 우연히 시간을 돌이키는 비약을 얻게 된 그는 30년 전으로 돌아가 운명을 다시 바꿀 기회를 부여잡는다. 그러나 죽은 일리나를 살려내면서 그의 삶은 예기치 못한 대혼란의 소용돌이 속으로 휩쓸려가는데...
+
+</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-소설/시/희곡</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">21</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788952206503</td>
+        <td class="stext" style="text-align: center; width: 100px;">2599166</td>
+        <td class="stext" style="text-align: center; width: 150px;">The Secret 시크릿</td>
+        <td class="stext" style="text-align: center; width: 100px;">12,420원</td>
+        <td class="stext" style="text-align: center; width: 100px;">690원</td>
+        <td class="stext" style="text-align: center; width: 100px;">론다 번/김우열</td>
+        <td class="stext" style="text-align: center; width: 100px;">살림Biz</td>
+        <td class="stext" style="text-align: center; width: 750px;">인생을 성공으로 이끄는 ‘위대한 비밀’의 단편들은 오래 전부터 구전과 문학과 종교와 철학에서 발견되었다. 이제 최초로 ‘비밀’의 모든 조각이 하나로 묶여 세계에 소개되었다. 이 책에서 독자는 돈, 건강, 인간관계, 행복 등 삶의 모든 면에서 ‘비밀’을 활용하는 법을 배울 것이다. 내면에 잠재되어 숨겨진 힘을 이해하기 시작할 터이고, 그리하여 모든 측면에서 기쁨을 발견하게 되리라.
+
+  『영혼을 위한 닭고기 수프』의 잭 캔필드, 『화성에서 온 남자 금성에서 온 여자』의 존 그레이 등 24명의 대가들이 비밀을 활용해 건강과...</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-자기계발</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">22</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788936507824</td>
+        <td class="stext" style="text-align: center; width: 100px;">2956487</td>
+        <td class="stext" style="text-align: center; width: 150px;">오늘 더 사랑해</td>
+        <td class="stext" style="text-align: center; width: 100px;">11,700원</td>
+        <td class="stext" style="text-align: center; width: 100px;">650원</td>
+        <td class="stext" style="text-align: center; width: 100px;">션/정혜영</td>
+        <td class="stext" style="text-align: center; width: 100px;">홍성사</td>
+        <td class="stext" style="text-align: center; width: 750px;">나눔을 생활화하고 있는 션 · 정혜영 부부의 따뜻한 일상을 담은 포토 에세이집. 『오늘 더the 사랑해』는 미니홈피에 등록된 글과 그동안 언론과 미니홈피에 공개하지 않았던 편지, 이들 부부만의 특별한 육아법, 삶에 대한 진실한 묵상, 두 아이와 함께하는 가족들의 일상을 사진과 함께 기록하고 있다. 사진들은 대부분 아빠 션과 엄마 정혜영이 틈틈이 촬영한 것이며, 그 속에는 화려한 연예인으로서가 아니라 두 아이의 아빠 · 엄마로서의 역할에 최선을 다하는 두 사람의 행복한 일상이 담겨 있다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-종교</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">23</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788982810893</td>
+        <td class="stext" style="text-align: center; width: 100px;">124009</td>
+        <td class="stext" style="text-align: center; width: 150px;">황금 물고기</td>
+        <td class="stext" style="text-align: center; width: 100px;">7,200원</td>
+        <td class="stext" style="text-align: center; width: 100px;">400원</td>
+        <td class="stext" style="text-align: center; width: 100px;">J. M. G. 르 클레지오/최수철</td>
+        <td class="stext" style="text-align: center; width: 100px;">문학동네</td>
+        <td class="stext" style="text-align: center; width: 750px;">프랑스 현대 문단의 살아 있는 신화이자 2008년 노벨문학상 수상자인 르 클레지오의 대표작. 순수문학으로는 이례적으로 출간되자마자 장기간 베스트셀러 1위의 자리를 지킨 이 작품은 예닐곱 살 때 유아 인신매매단에게 납치된 한 소녀의 인생 역정을 그리고 있다.
+
+‘밤‘이라는 뜻의 라일라라는 이름의 소녀는 예닐곱 살 무렵에 유괴를 당한다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-소설/시/희곡</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">24</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788996047636</td>
+        <td class="stext" style="text-align: center; width: 100px;">2875607</td>
+        <td class="stext" style="text-align: center; width: 150px;">네가 어떤 삶을 살든 나는 너를 응원할 것이다</td>
+        <td class="stext" style="text-align: center; width: 100px;">12,960원</td>
+        <td class="stext" style="text-align: center; width: 100px;">720원</td>
+        <td class="stext" style="text-align: center; width: 100px;">공지영</td>
+        <td class="stext" style="text-align: center; width: 100px;">오픈하우스</td>
+        <td class="stext" style="text-align: center; width: 750px;">『즐거운 나의 집』의 주인공 위녕과 그녀의 엄마를 다시 만난다. 이번에는 소설 속 등장인물이 아닌 진짜 가족의 모습으로. 공지영 작가가 하나뿐인 딸에게 보내는 편지. 아니, 험난한 세월을 살아가는 이 땅의 모든 아들, 딸들에게 보내는 응원의 메시지를 담은 책이다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-에세이</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">25</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788973374939</td>
+        <td class="stext" style="text-align: center; width: 100px;">318766</td>
+        <td class="stext" style="text-align: center; width: 150px;">눈먼 자들의 도시</td>
+        <td class="stext" style="text-align: center; width: 100px;">13,050원</td>
+        <td class="stext" style="text-align: center; width: 100px;">720원</td>
+        <td class="stext" style="text-align: center; width: 100px;">주제 사라마구/정영목</td>
+        <td class="stext" style="text-align: center; width: 100px;">해냄</td>
+        <td class="stext" style="text-align: center; width: 750px;">이 세상 모든 사람들이 보지 못한다면?
+인간의 욕망의 끝을 파헤치는 주제 사라마구의 대표작
+
+사람들은 갑자기 앞을 볼 수 없는 전염병에 걸리고, 그들은 수용소에 격리된다. 1998년 노벨문학상을 수상한 주제 사라마구가 그려내는 디스토피아의 모습이다. 본다는 것은 식별한다는 것이고, 이것은 곧 이성을 바탕으로 한 행위이다. 이렇듯 이성을 잃어버린 도시는 아비규환, 그 자체가 돼 버린다. 
+
+작가는 인간이 극한 상황에서 얼마나 사악해지는지 숨김없이 내보인다. </td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-소설/시/희곡</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">26</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788993285284</td>
+        <td class="stext" style="text-align: center; width: 100px;">3085669</td>
+        <td class="stext" style="text-align: center; width: 150px;">개를 훔치는 완벽한 방법</td>
+        <td class="stext" style="text-align: center; width: 100px;">8,820원</td>
+        <td class="stext" style="text-align: center; width: 100px;">490원</td>
+        <td class="stext" style="text-align: center; width: 100px;">바바라 오코너/신선해</td>
+        <td class="stext" style="text-align: center; width: 100px;">다산책방</td>
+        <td class="stext" style="text-align: center; width: 750px;">패런츠 초이스 어워드, ALA 노터블 어워드 등 열네 개에 해당하는 문학상, 협회 선정작 등 각종 부문에 노미네이트 되는 쾌거를 이룬 바바라 오코너의 첫 국내출간 소설 『개를 훔치는 완벽한 방법』. 아빠는 도망가고, 집은 사라지고, 한순간에 길거리로 나앉게 된 주인공 소녀와 엄마, 동생의 고군분투기를 그린 소설로, 작가는 ‘가난과 부서진 가족’ 혹은 ‘외롭고 소외된 청춘’이라는 무거운 주제를 시종일관 위트와 유쾌하게 풀어낸다.
+
+조지나는 최근 자신에게 일어난 일을 믿을 수가 없다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-소설/시/희곡</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">27</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788973819546</td>
+        <td class="stext" style="text-align: center; width: 100px;">3075636</td>
+        <td class="stext" style="text-align: center; width: 150px;">장미 비파 레몬</td>
+        <td class="stext" style="text-align: center; width: 100px;">10,800원</td>
+        <td class="stext" style="text-align: center; width: 100px;">600원</td>
+        <td class="stext" style="text-align: center; width: 100px;">에쿠니 가오리/김난주</td>
+        <td class="stext" style="text-align: center; width: 100px;">소담출판사</td>
+        <td class="stext" style="text-align: center; width: 750px;">『냉정과 열정 사이』, 『홀리 가든』 의 작가 에쿠니 가오리의 신작 장편소설 『장미 비파 레몬』. 꽃집 주인, 잡지 편집자, 주부, 모델, 학생, 회사원까지 다양한 개성을 지닌 주인공 9명의 아슬아슬하면서도 대담한, 수줍으면서도 과감한 사랑을 담은 작품으로, 리얼하게 묘사된 등장인물들의 복잡한 관계와 심리가 더 깊어지고 날카로워진 에쿠니 가오리의 관찰력을 여실히 보여준다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-소설/시/희곡</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">28</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788901052922</td>
+        <td class="stext" style="text-align: center; width: 100px;">1804371</td>
+        <td class="stext" style="text-align: center; width: 150px;">괜찮아</td>
+        <td class="stext" style="text-align: center; width: 100px;">9,000원</td>
+        <td class="stext" style="text-align: center; width: 100px;">500원</td>
+        <td class="stext" style="text-align: center; width: 100px;">최숙희</td>
+        <td class="stext" style="text-align: center; width: 100px;">웅진주니어</td>
+        <td class="stext" style="text-align: center; width: 750px;">이 책은 다양한 동물의 생태 특징을 통해 생명의 건강함과, 또 특별한 것 없어 보이는 사람에게도 한가지씩 잘하는 점이 있다는 것을 보여주는 예쁜 그림책입니다. 『열두 띠 동물 까꿍놀이』『세상을 담은 그림, 지도』등을 그린 최숙희 씨가 직접 그리고 썼습니다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-유아</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">29</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788953291942</td>
+        <td class="stext" style="text-align: center; width: 100px;">3105014</td>
+        <td class="stext" style="text-align: center; width: 150px;">코믹 메이플스토리 오프라인 RPG 30</td>
+        <td class="stext" style="text-align: center; width: 100px;">7,650원</td>
+        <td class="stext" style="text-align: center; width: 100px;">420원</td>
+        <td class="stext" style="text-align: center; width: 100px;">송도수/서정은</td>
+        <td class="stext" style="text-align: center; width: 100px;">서울문화사</td>
+        <td class="stext" style="text-align: center; width: 750px;">가짜 세계수와 맞설 수 있는 자는 오직 그 아이뿐이야! 
+
+세계수의 부활로 그 동안의 모험을 끝내고 집으로 돌아가던 도도는 라이칸 7세에게 감사 인사를 하고자 오시라아에 잠시 들러요. 스헝게 라이칸은 도도의 몸 상태를 살펴보고 도도가 치명적인 독에 중독되어 회복될수 없다는 사실을 알고 괴로워하게 되지요. 한편 가짜 세계수가 부활한 것을 알게 된 아루루에게는 무슨 일이 생긴 걸까요?
+
+이 책은 어린이들이 가장 좋아하는 온라인 게임을 이용해 만든 ‘코믹북’입니다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-어린이</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">30</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788976820532</td>
+        <td class="stext" style="text-align: center; width: 100px;">830</td>
+        <td class="stext" style="text-align: center; width: 150px;">삐뽀삐뽀 119 소아과</td>
+        <td class="stext" style="text-align: center; width: 100px;">26,820원</td>
+        <td class="stext" style="text-align: center; width: 100px;">1,490원</td>
+        <td class="stext" style="text-align: center; width: 100px;">하정훈</td>
+        <td class="stext" style="text-align: center; width: 100px;">그린비라이프</td>
+        <td class="stext" style="text-align: center; width: 750px;">육아상식에 관한 모든것을 담았다. 이 책은 아이가 아플때 가정에서 할 수 있는 응급처지법, 육아 상식을 총망라했다. 아기의 질환을 엄마 눈으로 확인 할 수 있는 원색 슬라이드를 실어 세세한 부분까지 체크해 볼 수 있다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-가정 살림</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">31</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788950914882</td>
+        <td class="stext" style="text-align: center; width: 100px;">3005744</td>
+        <td class="stext" style="text-align: center; width: 150px;">설득의 심리학 2</td>
+        <td class="stext" style="text-align: center; width: 100px;">10,800원</td>
+        <td class="stext" style="text-align: center; width: 100px;">600원</td>
+        <td class="stext" style="text-align: center; width: 100px;">로버트 치알디니/노아 골드스타인/스티브 마틴</td>
+        <td class="stext" style="text-align: center; width: 100px;">21세기북스</td>
+        <td class="stext" style="text-align: center; width: 750px;">100만 독자를 사로잡았던『설득의 심리학』에서 사람의 마음을 사로잡는 6가지 불변의 법칙을 제시하여 마케팅 영역에 새로운 통찰을 선사했던 로버트 치알디니가 그 두 번째 이야기로 돌아왔다. 이 책은 최신 심리학 실험 결과를 토대로 비즈니스 현장에서 일상생활에 이르기까지, 모든 이들에게 실제로 도움이 되는 '과학적으로 입증된 설득의 기술' 50가지를 제시한다. 
+
+저자는 심리학의 법칙, 심리학의 영역에 놓여 있던 설득의 영향력을 과학의 영역으로 끌어내 연구자들의 통계와 수치로 그 효능을 알려준다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-자기계발</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">32</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788991941014</td>
+        <td class="stext" style="text-align: center; width: 100px;">2174162</td>
+        <td class="stext" style="text-align: center; width: 150px;">짧은 귀 토끼</td>
+        <td class="stext" style="text-align: center; width: 100px;">9,000원</td>
+        <td class="stext" style="text-align: center; width: 100px;">500원</td>
+        <td class="stext" style="text-align: center; width: 100px;">탕탕</td>
+        <td class="stext" style="text-align: center; width: 100px;">고래이야기</td>
+        <td class="stext" style="text-align: center; width: 750px;">자기의 단점을 이겨내는 재미있고 유쾌한 이야기
+꼬마 토끼 동동이는 남들과 달랐어요. 다른 토끼들은 귀가 길었지만 동동이 귀는 그렇지 않았어요. 짧고 둥글고 두툼해서 마치 작은 버섯 같았지요. 엄마는 동동이 귀가 귀엽고 특별하다고 말하지만, 동동이는 속이 상했어요. 동동이는 자기 귀를 길쭉하게 만들려고 여러 가지 방법을 생각해 냈어요. 영양가 있는 음식을 많이 먹어도 보고, 채소처럼 쑥쑥 자랄까 싶어 몸을 땅에 심은 후 귀에 물을 주기도 하고, 빨래집게로 귀를 집어 빨랫줄에 매달리기도 하고…….
+
+과연 동동...</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-유아</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">33</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788901082189</td>
+        <td class="stext" style="text-align: center; width: 100px;">2967937</td>
+        <td class="stext" style="text-align: center; width: 150px;">폴 크루그먼 미래를 말하다</td>
+        <td class="stext" style="text-align: center; width: 100px;">16,200원</td>
+        <td class="stext" style="text-align: center; width: 100px;">900원</td>
+        <td class="stext" style="text-align: center; width: 100px;">폴 크루그먼/예상한/한상완/유병규/박태일</td>
+        <td class="stext" style="text-align: center; width: 100px;">현대경제연구원books</td>
+        <td class="stext" style="text-align: center; width: 750px;">폴 크루그먼이 선보이는 4년 만의 신작. 저자는 역사·정치·경제· 사회문화 등 시공을 넘나들며 미국 사회의 문제점을 분석한다. 중산층의 몰락과 소득의 불평등, 의료보험 시스템 등에 대한 비판과 미래에 대한 처방전은 오늘날의 한국사회에도 유효하다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-경제 경영</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">34</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788984370890</td>
+        <td class="stext" style="text-align: center; width: 100px;">3076847</td>
+        <td class="stext" style="text-align: center; width: 150px;">빗속을 질주하는 법</td>
+        <td class="stext" style="text-align: center; width: 100px;">9,000원</td>
+        <td class="stext" style="text-align: center; width: 100px;">500원</td>
+        <td class="stext" style="text-align: center; width: 100px;">가스 스타인/공경희</td>
+        <td class="stext" style="text-align: center; width: 100px;">밝은세상</td>
+        <td class="stext" style="text-align: center; width: 750px;">인간 세상을 비웃던 『나는 고양이로소이다』의 냉소적인 고양이와는 달리, 이 책의 주인공 개 엔조는 인간을 사랑하고 그의 주인을 위하는 따뜻한 마음씨를 지녔다. 인간보다 더 지혜로운 개의 시선으로 그려낸 따뜻한 가족 사랑 이야기. 철학자 개 '엔조'와 카레이서 '데니'가 엮어가는 레이싱과 가족 이야기를 중심으로, 인생의 시련을 극복하는 빛나는 통찰과 지혜를 담았다. 
+
+소설은 주로 엔조의 주인 데니와 카레이싱 그리고 주변 사람들의 갈등을 바라보는 엔조의 이야기로 채워진다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-소설/시/희곡</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">35</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788901078588</td>
+        <td class="stext" style="text-align: center; width: 100px;">2837275</td>
+        <td class="stext" style="text-align: center; width: 150px;">서른살이 심리학에게 묻다</td>
+        <td class="stext" style="text-align: center; width: 100px;">10,800원</td>
+        <td class="stext" style="text-align: center; width: 100px;">600원</td>
+        <td class="stext" style="text-align: center; width: 100px;">김혜남</td>
+        <td class="stext" style="text-align: center; width: 100px;">갤리온</td>
+        <td class="stext" style="text-align: center; width: 750px;">『서른 살이 심리학에게 묻다』는 심리학이 서른 살의 삶과 일, 사랑, 인간관계에 대해 들려주고 싶은 이야기들을 담고 있는 책이다.
+
+저자는 ‘내 인생, 도대체 뭐가 문제인 걸까? 진정 내가 원하는 것은 무엇일까? 내게도 다시 사랑이 올까?’ 등을 고민하며 방황하는 서른 살을 위해 35개의 테마로 나누어 삶이 외롭고 우울한 진짜 이유들을 분석한다. 그리고 왜 서른 살은 마음먹은 만큼 성공할 수 있는지, 왜 더 뜨겁고 간절하게 사랑할 수 있는지, 왜 마음껏 행복해질 수 있는지를 밝히고 있다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-인문</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">36</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788959245475</td>
+        <td class="stext" style="text-align: center; width: 100px;">1519949</td>
+        <td class="stext" style="text-align: center; width: 150px;">끌림</td>
+        <td class="stext" style="text-align: center; width: 100px;">10,800원</td>
+        <td class="stext" style="text-align: center; width: 100px;">600원</td>
+        <td class="stext" style="text-align: center; width: 100px;">이병률</td>
+        <td class="stext" style="text-align: center; width: 100px;">랜덤하우스코리아</td>
+        <td class="stext" style="text-align: center; width: 750px;">시인이자 MBC FM ‘이소라의 음악도시’의 구성작가 이병률이 1994년부터 2005년 올 초까지 약 10년 동안 근 50개국, 200여 도시를 돌며 남긴 순간순간의 숨구멍 같은 기록. 모든 여행의 시작이 그러하듯 뚜렷한 목적 없이 계산도 없이 발길 닿는 대로 걸었다 주저앉았다 내처 길 위에 머무는 동안 그는 서른의 목전인 스물아홉에서 마흔의 목전인 서른아홉이 되었다. 아찔한 그 시간…… 동안, 성숙의 이름을 달고 미성숙을 달래야 하는 청년의 목마름을 채워준 것은 다름 아닌 여행, 여행! 누군가 여행은 영원히 안 돌아오는 것이라 말?..</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-에세이</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">37</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788991643154</td>
+        <td class="stext" style="text-align: center; width: 100px;">2119989</td>
+        <td class="stext" style="text-align: center; width: 150px;">뿌리 깊은 나무 1</td>
+        <td class="stext" style="text-align: center; width: 100px;">10,800원</td>
+        <td class="stext" style="text-align: center; width: 100px;">600원</td>
+        <td class="stext" style="text-align: center; width: 100px;">이정명</td>
+        <td class="stext" style="text-align: center; width: 100px;">밀리언하우스</td>
+        <td class="stext" style="text-align: center; width: 750px;">&lt뿌리깊은 나무&gt는 우리 역사의 깊이와 소설적 재미를 구현한 본격 한국형 팩션이다. ‘우리 역사를 소재로 한, 우리의 감성에 맞는, 우리의 이야기’인 것이다. 외국 팩션 소설을 능가하는 속도감과 소설적 재미, 그리고 뜨거운 시대의식과 해박한 지적 탐구가 돋보인다. 
+
+</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-소설/시/희곡</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">38</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788925897417</td>
+        <td class="stext" style="text-align: center; width: 100px;">3082402</td>
+        <td class="stext" style="text-align: center; width: 150px;">신의 물방울 17</td>
+        <td class="stext" style="text-align: center; width: 100px;">4,500원</td>
+        <td class="stext" style="text-align: center; width: 100px;">250원</td>
+        <td class="stext" style="text-align: center; width: 100px;">아기 타다시/오키모토 슈</td>
+        <td class="stext" style="text-align: center; width: 100px;">학산문화사</td>
+        <td class="stext" style="text-align: center; width: 750px;">세계의 시장 가격을 좌우하는 와인평론가 칸자키 유타카가 세상을 떠나면서 시가 20억이 넘는 와인 컬렉션을 남겼다! 그 정점에 선 최고의 한 병이 바로 ‘신의 물방울’-. 그가 선택한 12병의 와인 ‘사도’와 ‘신의 물방울’의 이름. 생산연도를 알아맞힌 자만이 유산을 가질 수 있다. 이 ‘사도’대결에 친아들 시즈쿠와 양자 잇세가 도전한다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-만화/라이트노벨</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">39</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788960861268</td>
+        <td class="stext" style="text-align: center; width: 100px;">3054397</td>
+        <td class="stext" style="text-align: center; width: 150px;">꼴 (2)</td>
+        <td class="stext" style="text-align: center; width: 100px;">8,820원</td>
+        <td class="stext" style="text-align: center; width: 100px;">490원</td>
+        <td class="stext" style="text-align: center; width: 100px;">신기원/허영만</td>
+        <td class="stext" style="text-align: center; width: 100px;">위즈덤하우스</td>
+        <td class="stext" style="text-align: center; width: 750px;">2008년 6월, 출간과 함께 독자들의 뜨거운 반응을 불러일으켰던 허영만 화백의 관상 만화 『꼴』의 두 번째 책이다. 『꼴』시리즈는 진지한 사회 참여적 성격과 대중성을 두루 갖춘 굵직굵직한 작품들을 통해 만화에 대한 인식을 새롭게 일궈낸 이 시대 대표 작가 허영만 화백이 만화 인생 30여 년 동안 천착했던 ‘사람의 얼굴’, ‘사람의 이야기’를 담고 있다.
+
+인간의 운명은 고대부터 현재까지 사람들의 끊임없는 관심의 대상이었다. 특히 관상은 학문으로서의 가치 또한 매우 높아 오랫동안 많은 사람들로부터 사랑을 받고 있다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-건강 취미</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">40</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788954605908</td>
+        <td class="stext" style="text-align: center; width: 100px;">2960561</td>
+        <td class="stext" style="text-align: center; width: 150px;">[예스리커버] 로드</td>
+        <td class="stext" style="text-align: center; width: 100px;">11,700원</td>
+        <td class="stext" style="text-align: center; width: 100px;">650원</td>
+        <td class="stext" style="text-align: center; width: 100px;">코맥 매카시/정영목</td>
+        <td class="stext" style="text-align: center; width: 100px;">문학동네</td>
+        <td class="stext" style="text-align: center; width: 750px;">320 페이지의 절망, 그리고 단 한 줄의 가장 아름다운 희망. 코맥 매카시의 『로드』. 2007 퓰리처상 수상, 아마존과 뉴욕타임스 베스트 1위, 오프라 윈프리 북클럽 선정 등 세계적인 화제의 책이다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-소설/시/희곡</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">41</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788900202588</td>
+        <td class="stext" style="text-align: center; width: 100px;">1526318</td>
+        <td class="stext" style="text-align: center; width: 150px;">울지 말고 말하렴</td>
+        <td class="stext" style="text-align: center; width: 100px;">6,300원</td>
+        <td class="stext" style="text-align: center; width: 100px;">350원</td>
+        <td class="stext" style="text-align: center; width: 100px;">이찬규/김정애</td>
+        <td class="stext" style="text-align: center; width: 100px;">두산동아(단행)</td>
+        <td class="stext" style="text-align: center; width: 750px;">걸핏하면 울기부터 하는 아기 곰. 그네가 타고 싶은데 이미 악어 친구가 그네를 타고 있네요. 아기 곰은 울기 시작했어요. "앙앙~" 그래서 이번엔 집에 들어와서 장난감을 가지고 놀기 시작했죠. 하지만 장난감이 그만 망가져 버렸지 뭐예요. 아이 곰은 또 울기 부터 해요. 하지만 착한 아이는 울지 않고 이렇게 말하지요. "아빠. 이거 고쳐주세요." 그리고 그네가 타고 싶으면 이렇게 말해요. "악어친구야, 나 그네 한번 타게 해 줄래?" 
+
+무작정 자기가 원하는 것들을 징징거리거나 떼를 쓰며 표현하는 아이들에게, 자기 생각을 또박?..</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-유아</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">42</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788990255990</td>
+        <td class="stext" style="text-align: center; width: 100px;">1803901</td>
+        <td class="stext" style="text-align: center; width: 150px;">나는 침뜸으로 승부한다</td>
+        <td class="stext" style="text-align: center; width: 100px;">15,000원</td>
+        <td class="stext" style="text-align: center; width: 100px;">450원</td>
+        <td class="stext" style="text-align: center; width: 100px;">김남수</td>
+        <td class="stext" style="text-align: center; width: 100px;">정통침뜸연구소</td>
+        <td class="stext" style="text-align: center; width: 750px;">침과 뜸을 이용해 병 낫는 재미로 일평생 살아온 구당 김남수 선생의 주옥같은 임상경험담을 생생하게 기록한 책이다. 무극보양뜸이라는 시술을 개발한 이 책의 저자가 올림픽 출전선수였던 박태환 선수의 티눈을 뜸으로 치료한 기사가 최근 여러 일간지에 실리고, KBS 특집 방송이 방영 되면서 침뜸의 가치와 맥잇기의 중요성이 더욱 부각되고 있다. 
+
+지금 세계는 동서양 의학을 종합하여 의료 체계를 갖추는 대안 의학이 각광을 받는 시대로 접어들었다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">5</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-건강 취미</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">43</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788991643161</td>
+        <td class="stext" style="text-align: center; width: 100px;">2119991</td>
+        <td class="stext" style="text-align: center; width: 150px;">뿌리 깊은 나무 2</td>
+        <td class="stext" style="text-align: center; width: 100px;">10,800원</td>
+        <td class="stext" style="text-align: center; width: 100px;">600원</td>
+        <td class="stext" style="text-align: center; width: 100px;">이정명</td>
+        <td class="stext" style="text-align: center; width: 100px;">밀리언하우스</td>
+        <td class="stext" style="text-align: center; width: 750px;">는 우리 역사의 깊이와 소설적 재미를 구현한 본격 한국형 팩션이다. ‘우리 역사를 소재로 한, 우리의 감성에 맞는, 우리의 이야기’인 것이다. 외국 팩션 소설을 능가하는 속도감과 소설적 재미, 그리고 뜨거운 시대의식과 해박한 지적 탐구가 돋보인다. 
+
+는 한반도 역사상 가장 융성했던 세종 시대, 훈민정음 반포 전 7일간 경복궁에서 벌어지는 집현전 학사 연쇄살인사건을 다룬다. 위대한 군왕인 세종 치세의 궁궐 안 살인사건이라는 설정은 당혹스러울 수도 있다. 그러나 는 모두?..</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-소설/시/희곡</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">44</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788936437077</td>
+        <td class="stext" style="text-align: center; width: 100px;">3082733</td>
+        <td class="stext" style="text-align: center; width: 150px;">지금 행복해</td>
+        <td class="stext" style="text-align: center; width: 100px;">10,800원</td>
+        <td class="stext" style="text-align: center; width: 100px;">600원</td>
+        <td class="stext" style="text-align: center; width: 100px;">성석제</td>
+        <td class="stext" style="text-align: center; width: 100px;">창비</td>
+        <td class="stext" style="text-align: center; width: 750px;">독특한 소설적 재미와 풍자세계를 일궈온 작가 성석제가 『참말로 좋은 날』이후 2년 만에 펴내는 열한번째 소설집 『지금 행복해』. 2003년부터 2008년 사이에 발표한 최근작 9편의 단편을 묶었다. 이번 소설집에서도 성석제는 특유의 재치있는 입담과 유머 감각으로 많은 웃음을 선사한다.
+
+이번 작품집에서 유난히 여행을 소재로 한 작품들이 많다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-소설/시/희곡</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">45</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788937847295</td>
+        <td class="stext" style="text-align: center; width: 100px;">3079912</td>
+        <td class="stext" style="text-align: center; width: 150px;">바이러스에서 살아남기 1</td>
+        <td class="stext" style="text-align: center; width: 100px;">8,820원</td>
+        <td class="stext" style="text-align: center; width: 100px;">490원</td>
+        <td class="stext" style="text-align: center; width: 100px;">곰돌이 co./한현동</td>
+        <td class="stext" style="text-align: center; width: 100px;">미래엔아이세움</td>
+        <td class="stext" style="text-align: center; width: 750px;">위기에 빠진 탐험대를 구하고 반드시 밀림을 탈출해야 한다! 
+
+'서바이벌 만화 과학상식'의 제 21번째 이야기는 바로 '바이러스'와의 싸움입니다. 현대 의학이 발달한 오늘날에도 여전히 해결되지 못한 숙제로 남은 바이러스의 정의와 종류, 발생 역사, 예방법과 대처법 등의 정보를 흥미로운 스토리와 함께 제공합니다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">2</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-어린이</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">46</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788960861138</td>
+        <td class="stext" style="text-align: center; width: 100px;">2970494</td>
+        <td class="stext" style="text-align: center; width: 150px;">꼴 (1)</td>
+        <td class="stext" style="text-align: center; width: 100px;">8,820원</td>
+        <td class="stext" style="text-align: center; width: 100px;">490원</td>
+        <td class="stext" style="text-align: center; width: 100px;">신기원/허영만</td>
+        <td class="stext" style="text-align: center; width: 100px;">위즈덤하우스</td>
+        <td class="stext" style="text-align: center; width: 750px;">인간의 운명을 읽을 수 있다는 관상! 관상은 학문으로서의 가치 또한 높아 오랫동안 많은 사람들로부터 사랑을 받고 있다. 이 시대 대표 작가 허영만 화백이 만화 인생 30여 년 동안 천착했던 '사람의 얼굴’이야기를 풀어 놓는다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-건강 취미</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">47</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788930206648</td>
+        <td class="stext" style="text-align: center; width: 100px;">3046738</td>
+        <td class="stext" style="text-align: center; width: 150px;">Why? 와이 장수풍뎅이와 사슴벌레</td>
+        <td class="stext" style="text-align: center; width: 100px;">9,000원</td>
+        <td class="stext" style="text-align: center; width: 100px;">500원</td>
+        <td class="stext" style="text-align: center; width: 100px;">남춘자</td>
+        <td class="stext" style="text-align: center; width: 100px;">예림당</td>
+        <td class="stext" style="text-align: center; width: 750px;">요즘 곤충에 대한 어린이들의 관심이 높습니다. 심지어 곤충을 기르는 아이들도 많아졌는데, 그 중에서도 장수풍뎅이와 사슴벌레는 가장 인기 있어 '얼짱 곤충'으로 통합니다. 장수풍뎅이와 사슴벌레는 동물의 70% 이상을 차지하는 곤충, 그중에서도 곤충의 절반에 해당하는 딱정벌레목 무리 속에서 어떻게 곤충계 최강자로 군림하게 되었을까요? 
+
+이 책은 곤충계 인기 스타인 두 곤충에 대한 정보를 가득 담았습니다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-어린이</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">48</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788953527058</td>
+        <td class="stext" style="text-align: center; width: 100px;">1472361</td>
+        <td class="stext" style="text-align: center; width: 150px;">구름빵</td>
+        <td class="stext" style="text-align: center; width: 100px;">9,900원</td>
+        <td class="stext" style="text-align: center; width: 100px;">550원</td>
+        <td class="stext" style="text-align: center; width: 100px;">백희나</td>
+        <td class="stext" style="text-align: center; width: 100px;">한솔수북</td>
+        <td class="stext" style="text-align: center; width: 750px;"> 구름을 반죽해서 빵으로 만든다구? 
+기발한 상상력에 따뜻한 가족의 사랑을 버무린 구름빵 이야기! 
+
+비 오는 날 아침, 작은 구름 하나가 나뭇가지에 걸렸어요. 아이들은 구름을 따서 조심조심 엄마한테 갖다 주지요. 엄마는 솜털처럼 보드라운 구름을 반죽해서 빵을 구웠어요. 잘 구워진 구름빵을 먹은 엄마와 아이들은 구름처럼 두둥실 떠올랐지요. 아이들은 아침도 못 먹고 헐레벌떡 나가신 아빠한테 빵을 갖다 주기로 합니다. </td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-유아</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">49</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788930206617</td>
+        <td class="stext" style="text-align: center; width: 100px;">3023131</td>
+        <td class="stext" style="text-align: center; width: 150px;">Why? 와이 실험관찰</td>
+        <td class="stext" style="text-align: center; width: 100px;">9,000원</td>
+        <td class="stext" style="text-align: center; width: 100px;">500원</td>
+        <td class="stext" style="text-align: center; width: 100px;">전재운/김기명</td>
+        <td class="stext" style="text-align: center; width: 100px;">예림당</td>
+        <td class="stext" style="text-align: center; width: 750px;">우리 일상생활 중에서 흔히 일어나는 여러 현상이나, 자주 보면서도 정작 그 작동 원리를 몰라 궁금해 했던 기구와 기계, 변화무쌍한 자연현상 등을 실험을 통해 관찰하고 체험하도록 하는 책입니다. 재미있는 이야기와 쉽고 흥미로운 만화를 통해서 주변에서 쉽게 구할 수 있는 재료를 이용해 실험해 보고, 그 속에 감춰진 화학적·물리적인 원리를 찾아낼 수 있게 했습니다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-어린이</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">50</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788970636061</td>
+        <td class="stext" style="text-align: center; width: 100px;">2790517</td>
+        <td class="stext" style="text-align: center; width: 150px;">연을 쫓는 아이</td>
+        <td class="stext" style="text-align: center; width: 100px;">12,150원</td>
+        <td class="stext" style="text-align: center; width: 100px;">680원</td>
+        <td class="stext" style="text-align: center; width: 100px;">할레드 호세이니</td>
+        <td class="stext" style="text-align: center; width: 100px;">열림원</td>
+        <td class="stext" style="text-align: center; width: 750px;">아프가니스탄의 굴곡진 역사를 배경으로 한 따뜻한 성장소설 『연을 쫓는 아이』. 흥미진진하지만 교육적인 측면을 지니고 있으며 때로는 충격적이기도 한 이 소설은 탈레반 세력이 군림하고 있는 아프가니스탄의 한가운데로 거침없이 우리를 데려가준다. 
+
+아프가니스탄의 하늘에 색색의 연이 춤추는 날, 소년 아미르의 마음에 죄의식이 자리한다. 아미르는 형제 같은 하인 하산이 시달리고 있는 현장을 목격하고도 다리가 움츠러들어 아무것도 할 수 없었다. 뿐만 아니라 보고 있는 것만으로도 괴로워서 그를 억지로 멀리했다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-소설/시/희곡</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">51</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788925519685</td>
+        <td class="stext" style="text-align: center; width: 100px;">2988755</td>
+        <td class="stext" style="text-align: center; width: 150px;">잠수네 아이들의 소문난 영어공부법 실천로드맵</td>
+        <td class="stext" style="text-align: center; width: 100px;">9,450원</td>
+        <td class="stext" style="text-align: center; width: 100px;">530원</td>
+        <td class="stext" style="text-align: center; width: 100px;">이신애</td>
+        <td class="stext" style="text-align: center; width: 100px;">랜덤하우스코리아</td>
+        <td class="stext" style="text-align: center; width: 750px;">영어 못하는 보통 엄마들의, 체험으로 완성시킨 성공적인 영어학습 실천로드맵! 수많은 성공사례를 보여준 잠수네 영어교실의 적응, 발전, 심화, 고수 총 4과정을 분석, 아이의 특성에 맞는 듣기, 읽기, 말하기, 쓰기의 학습전략을 정리했다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-가정 살림</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">52</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788950905224</td>
+        <td class="stext" style="text-align: center; width: 100px;">303954</td>
+        <td class="stext" style="text-align: center; width: 150px;">설득의 심리학</td>
+        <td class="stext" style="text-align: center; width: 100px;">10,800원</td>
+        <td class="stext" style="text-align: center; width: 100px;">600원</td>
+        <td class="stext" style="text-align: center; width: 100px;">로버트 치알디니/노아 골드스타인/스티브 마틴</td>
+        <td class="stext" style="text-align: center; width: 100px;">21세기북스</td>
+        <td class="stext" style="text-align: center; width: 750px;">"왜 나는 그렇게나 쉽게 승낙해버리는 걸까?" 누구나 성급하게 승낙해놓고, 필요 없는 물건을 사놓고 후회한 적이 있을 것이다. 당신에게 승낙을 끌어냈던 바로 그 기술의 원리를 당신이 터득한다면 불필요한 설득을 당하지 않을 뿐 아니라, 필요한 승낙을 쉽게 얻어낼 수 있을 것이다. '상호성, 일관성, 사회적 증거, 호감, 권위, 희귀성'이라는 인간의 6가지 심리적 법칙을 통해 제시하는 설득의 세계.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-자기계발</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">53</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788984370869</td>
+        <td class="stext" style="text-align: center; width: 100px;">2769949</td>
+        <td class="stext" style="text-align: center; width: 150px;">사랑하기 때문에</td>
+        <td class="stext" style="text-align: center; width: 100px;">8,820원</td>
+        <td class="stext" style="text-align: center; width: 100px;">490원</td>
+        <td class="stext" style="text-align: center; width: 100px;">기욤 뮈소/전미연</td>
+        <td class="stext" style="text-align: center; width: 100px;">밝은세상</td>
+        <td class="stext" style="text-align: center; width: 750px;">『사랑하기 때문에』의 주인공들인 커너, 마크, 에비, 앨리슨은 저마다 깊은 상처와 고통이 있다. 사회적인 성공이나 부의 축적과는 무관하게 상처는 현재를 어둠 속으로 밀어 넣는 동시에 미래마저 암울한 빛깔을 띠게 한다. 이 소설은 상처를 딛고 일어서는 사람들의 이야기다. 가해자와 피해자, 상처를 입힌 자와 상처받은 자들은 서로 화해와 용서를 통해 삶을 어둠 속으로 이끄는 상처를 극복해간다.
+
+라일라, 다섯 살짜리 여자아이가 로스앤젤레스의 한 쇼핑몰 근처에서 실종된다. 부모는 극심한 충격에 휩싸인다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-소설/시/희곡</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">54</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788925856186</td>
+        <td class="stext" style="text-align: center; width: 100px;">3087913</td>
+        <td class="stext" style="text-align: center; width: 150px;">늑대와 향신료 7</td>
+        <td class="stext" style="text-align: center; width: 100px;">6,120원</td>
+        <td class="stext" style="text-align: center; width: 100px;">340원</td>
+        <td class="stext" style="text-align: center; width: 100px;">하세쿠라 이스나/박소영/아야쿠라 쥬우</td>
+        <td class="stext" style="text-align: center; width: 100px;">학산문화사(단행본)</td>
+        <td class="stext" style="text-align: center; width: 750px;">점점 더 불타오르는 신감각 판타지, 
+‘색깔’을 주제로 한 주옥같은 단편집 등장! 
+뤼빈하이겐에서 벌어진 소동이 깨끗이 수습된 것을 축하하는 뜻에서 노라와 함께 식사를 하게 된 호로와 로렌스.</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-만화/라이트노벨-라이트노벨</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">55</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788983713896</td>
+        <td class="stext" style="text-align: center; width: 100px;">3057954</td>
+        <td class="stext" style="text-align: center; width: 150px;">무서운 그림</td>
+        <td class="stext" style="text-align: center; width: 100px;">13,050원</td>
+        <td class="stext" style="text-align: center; width: 100px;">720원</td>
+        <td class="stext" style="text-align: center; width: 100px;">나카노 교코/이연식</td>
+        <td class="stext" style="text-align: center; width: 100px;">세미콜론</td>
+        <td class="stext" style="text-align: center; width: 750px;">드가의 그림 속 조명을 받으며 한껏 자태를 뽐내는 발레리나 뒤에 검은 그림자는 누구일까? 젠틸레스키의 「홀로페르네스의 목을 베는 유딧」을 주문한 토스카나 대공 부부가 완성된 그림을 치워버린 사연은? 사랑스러운 미소를 짓는 천진난만한 네 아이의 초상화가 완성된 직후 무슨 일이 벌어졌는가?
+
+이 책은 명화에 얽힌 역사적 사실들, 화가의 개인사, 그림 속 인물과 얽힌 얘기들을 통해 그 뒤에 숨겨진 무서움의 실체를 밝히는 책이다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-예술</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">56</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788901058030</td>
+        <td class="stext" style="text-align: center; width: 100px;">2115498</td>
+        <td class="stext" style="text-align: center; width: 150px;">시골의사의 부자경제학</td>
+        <td class="stext" style="text-align: center; width: 100px;">10,800원</td>
+        <td class="stext" style="text-align: center; width: 100px;">600원</td>
+        <td class="stext" style="text-align: center; width: 100px;">박경철</td>
+        <td class="stext" style="text-align: center; width: 100px;">리더스북</td>
+        <td class="stext" style="text-align: center; width: 750px;">대한민국 최고의 투자전문가, 시골의사가 밝히는 경제 원리에 숨겨진 부자들의 투자 비밀
+
+현직 외과의사인 동시에 ‘시골의사’라는 필명으로 유명한 박경철 원장이 처음으로 세상에 내놓는 투자서. 증권가에서 그만큼 풍부한 인문학적 안목과 시장에 대한 통찰을 유려하게 풀어내는 사람이 없다고 할 정도로 그의 안목과 필력은 이미 유명하다. 이 책에는 시골의사가 20여 년 동안 성공과 실패를 오가며 깨달은 부의 원리, 투자의 원칙이 담겨 있다. 부자가 되고 싶다면 대박을 꿈꾸며 유망종목이나 개발예정지를 좇기보다 먼저 ?..</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-경제 경영</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">57</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788901088228</td>
+        <td class="stext" style="text-align: center; width: 100px;">3075868</td>
+        <td class="stext" style="text-align: center; width: 150px;">심리학 초콜릿</td>
+        <td class="stext" style="text-align: center; width: 100px;">10,800원</td>
+        <td class="stext" style="text-align: center; width: 100px;">600원</td>
+        <td class="stext" style="text-align: center; width: 100px;">김진세</td>
+        <td class="stext" style="text-align: center; width: 100px;">웅진윙스</td>
+        <td class="stext" style="text-align: center; width: 750px;">관계, 사랑, 속마음, 중독 때문에 힘겨워하는 20대 여성들의 고민이 고스란히 담겨있는 책이다. 이 책은 겉으로 자존심이 강해보이는 요즘 20대에게, 진정한 ‘자기애’는 없다는 견해를 제시하면서  “누구보다 나를 사랑하라”는 메시지를 전하고 있다.
+
+또한 자존심과 자존감을 구분하여 자존감을 세울 것을 주장하고 있는데, 자존심은 자신에 대해 긍정적인 평가만 하는 것이지만, 자존감은 남들에 비해 내가 부족할 수도 있다는 사실도 인정하며 자신을 긍정적으로 평가하는 것이라고 말하고 있다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-인문</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">58</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788959950027</td>
+        <td class="stext" style="text-align: center; width: 100px;">1946921</td>
+        <td class="stext" style="text-align: center; width: 150px;">Don't Speak English 글로비쉬로 말하자! 워크북</td>
+        <td class="stext" style="text-align: center; width: 100px;">10,800원</td>
+        <td class="stext" style="text-align: center; width: 100px;">600원</td>
+        <td class="stext" style="text-align: center; width: 100px;">장 폴 네리에르/필립 뒤프레슨/자크 부르공</td>
+        <td class="stext" style="text-align: center; width: 100px;">다락원</td>
+        <td class="stext" style="text-align: center; width: 750px;">다국적기업 IBM 유럽지사에서 근무하면서 40개국에서 온 동료들이 제 각각의 영어로 너끈히 대화를 나누는 것을 보고 ‘지구촌 영어’의 존재를 알게 됐다는 네리에르 씨. 그의 영어마스터 비결은 간단하다. '영어는 목적이 아니라 도구이면 족하니, 쉬운 영어로 말하자!' 글로비쉬를 이루는 기본 1500개 단어에는 조카(nephew)나 질녀(niece) 같은 까다로운 단어는 들어있지 않다. ‘형의 아이들’(children of my brother), 혹은 ‘형의 아들’(my brother's son)이라고 쉬운 단어만 조합해도 얼마든지 뜻이 통한다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-국어 외국어 사전</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">59</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788992525350</td>
+        <td class="stext" style="text-align: center; width: 100px;">3041652</td>
+        <td class="stext" style="text-align: center; width: 150px;">괜찮다, 다 괜찮다</td>
+        <td class="stext" style="text-align: center; width: 100px;">10,800원</td>
+        <td class="stext" style="text-align: center; width: 100px;">600원</td>
+        <td class="stext" style="text-align: center; width: 100px;">공지영/지승호</td>
+        <td class="stext" style="text-align: center; width: 100px;">알마</td>
+        <td class="stext" style="text-align: center; width: 750px;">장하준, 우석훈, 신해철 등 대한민국 파워 인터뷰이들과 인터뷰한 내용을 꾸준히 책으로 엮어온 전문 인터뷰어 지승호가 18권의 책으로 통권 700만 부 이상의 판매고를 올린 '베스트셀러 작가'. '가장 사랑받는 작가', '앞으로 가장 기대되는 작가' 설문 조사에서 1위 또는 상위권에 늘 오르는 작가 공지영을 만났다. 그동안 독자들이 궁금해했던 이야기, 듣고 싶었던 이야기를 모아서 그들을 대신해 공지영에게 물었다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">2</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-에세이</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">60</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788976820754</td>
+        <td class="stext" style="text-align: center; width: 100px;">1821219</td>
+        <td class="stext" style="text-align: center; width: 150px;">삐뽀삐뽀 119 이유식</td>
+        <td class="stext" style="text-align: center; width: 100px;">10,710원</td>
+        <td class="stext" style="text-align: center; width: 100px;">120원</td>
+        <td class="stext" style="text-align: center; width: 100px;">하정훈</td>
+        <td class="stext" style="text-align: center; width: 100px;">그린비라이프</td>
+        <td class="stext" style="text-align: center; width: 750px;">『처음 만나는 우리아기 이유식』의 개정판. 사랑스런 아가의 평생 건강을 지켜주는 이유식 조리법을 소개한다. 이유식 초기와 중기, 후기, 완료기 네 단계에 따라 안전한 식품과 조리법에 따른 메뉴를 선보이며, 알레르기 아가와 아픈 아가들도 안전하게 먹을 수 있는 이유식 조리법을 정리해 놓았다. 
+
+시기별로 반드시 알아야할 주의사항 들을 정리해 주고, 아가에게 맞는 이유식 조리법을 소개한다. 초보 엄마들도 쉽게 따라 할 수 있도록 계량에서 재료 고르기, 만들기와 보관까지 모든 것을 다루고 있다....</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-가정 살림</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">61</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788952782748</td>
+        <td class="stext" style="text-align: center; width: 100px;">325532</td>
+        <td class="stext" style="text-align: center; width: 150px;">괴물들이 사는 나라</td>
+        <td class="stext" style="text-align: center; width: 100px;">9,450원</td>
+        <td class="stext" style="text-align: center; width: 100px;">520원</td>
+        <td class="stext" style="text-align: center; width: 100px;">모리스 샌닥/강무홍</td>
+        <td class="stext" style="text-align: center; width: 100px;">시공주니어</td>
+        <td class="stext" style="text-align: center; width: 750px;">늑대 옷을 입고 장난을 치다가 엄마한테 야단맞은 꼬마가 방에 갇히는데, 방이 갑자기 숲이 되고 바다가 되고 세계 전체가 되어 꼬마를 괴물 나라로 데려간다. 꼬마는 괴물 나라의 왕이 되어 의기 양양하게 귀환하고 방 안에는 따뜻한 식탁이 차려져 있다. 현실 세계에서 경험한 엄마와의 감정적인 대립을 상상의 세계에서 풀도록 유도한다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-유아</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">62</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788925530246</td>
+        <td class="stext" style="text-align: center; width: 100px;">3067626</td>
+        <td class="stext" style="text-align: center; width: 150px;">20대 심리학</td>
+        <td class="stext" style="text-align: center; width: 100px;">9,900원</td>
+        <td class="stext" style="text-align: center; width: 100px;">550원</td>
+        <td class="stext" style="text-align: center; width: 100px;">곽금주</td>
+        <td class="stext" style="text-align: center; width: 100px;">랜덤하우스코리아</td>
+        <td class="stext" style="text-align: center; width: 750px;">『20대 심리학』은  2005년부터 서울대생들 사이에서 입소문을 타며 ‘신입생들이 반드시 들어야 할 추천강의’이자 ‘서울대 최고 인기강의’로 꼽혀온 서울대 심리학과 곽금주 교수의 「흔들리는 20대」를 책으로 엮은 것이다. 20대들이 성공적인 인생설계를 하기 위해 알아야 할 실천법들을 담은 지침서이자 쉽고 재미있게 풀어쓴 심리 교양서이다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-자기계발</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">63</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788901049205</td>
+        <td class="stext" style="text-align: center; width: 100px;">1475809</td>
+        <td class="stext" style="text-align: center; width: 150px;">시골의사의 아름다운 동행 1</td>
+        <td class="stext" style="text-align: center; width: 100px;">9,000원</td>
+        <td class="stext" style="text-align: center; width: 100px;">500원</td>
+        <td class="stext" style="text-align: center; width: 100px;">박경철</td>
+        <td class="stext" style="text-align: center; width: 100px;">리더스북</td>
+        <td class="stext" style="text-align: center; width: 750px;">이 책은 그동안 지은이의 블로그에 이라는 코너에 연재되었던 글들을 모은 것이다. 시골 외과의사가 병원이라는 풍경 속에서 깊고 따뜻한 시선으로 건져 올린 35개의 에피소드는 우리가 찾는 삶의 진정성은 삶 그 자체에 있다는 평범하지만 위대한 진리를 새삼 깨닫게 해준다. 
+
+지은이는 의사로서, 아니 의사이기 때문에 목도해야 했던 가슴 아픈 이야기들을 생생한 날것 그대로 보여줌으로써 “인생은 이런 것이다.”라고 담담하게 말한다. 애써 군더더기 설명을 달거나 에둘러서 가는 법이 없고, 어쭙잖은 감상이나 연민에 빠?..</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-에세이</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">64</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788990700469</td>
+        <td class="stext" style="text-align: center; width: 100px;">2691688</td>
+        <td class="stext" style="text-align: center; width: 150px;">해커스 토익 스타트 Reading 리딩</td>
+        <td class="stext" style="text-align: center; width: 100px;">14,150원</td>
+        <td class="stext" style="text-align: center; width: 100px;">150원</td>
+        <td class="stext" style="text-align: center; width: 100px;">데이비드 조</td>
+        <td class="stext" style="text-align: center; width: 100px;">해커스어학연구소</td>
+        <td class="stext" style="text-align: center; width: 750px;">해커스 토익 스타트 Reading은 해커스 어학연구소가 토익 입문자들을 위하여 새롭게 선보이는 ‘토익입문서'로, 수년간 축적된 토익 Know-how 중 초보학습자들에게 꼭 필요한 핵심 내용만을 선별하여 한 권으로 압축하였다. 또한 교재 학습효과를 높이기 위하여 무료로 동영상 강의, 온라인 모의고사, 단어 암기 MP3를 제공한다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-국어 외국어 사전</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">65</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788960170599</td>
+        <td class="stext" style="text-align: center; width: 100px;">3075296</td>
+        <td class="stext" style="text-align: center; width: 150px;">네 멋대로 찍어라</td>
+        <td class="stext" style="text-align: center; width: 100px;">13,950원</td>
+        <td class="stext" style="text-align: center; width: 100px;">770원</td>
+        <td class="stext" style="text-align: center; width: 100px;">조선희</td>
+        <td class="stext" style="text-align: center; width: 100px;">황금가지</td>
+        <td class="stext" style="text-align: center; width: 750px;">감수성 뚜렷한 사진들로 한국 사진계에서 각광받는 사진가 조선희. 그는 연예인들이 가장 찍히고 싶어 하는 한국 최고의 인물 사진가로, 톱스타들을 비롯하여 백남준, 장한나, 박지성 등 사회 각계 인사들을 피사체로 삼아 둘도 없이 독특한 포트레이트를 완성해 왔다. 《보그》, 《엘르》《W》 등의 지면에서 패션 사진가로도 뛰어난 면모를 보인 그는 애니콜, 싸이언, 올림푸스, 지오다노 등의 광고 사진을 맡았다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-예술</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">66</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788935652792</td>
+        <td class="stext" style="text-align: center; width: 100px;">201210</td>
+        <td class="stext" style="text-align: center; width: 150px;">마법의 설탕 두 조각</td>
+        <td class="stext" style="text-align: center; width: 100px;">8,100원</td>
+        <td class="stext" style="text-align: center; width: 100px;">450원</td>
+        <td class="stext" style="text-align: center; width: 100px;">미하엘 엔데/진드라 케펙</td>
+        <td class="stext" style="text-align: center; width: 100px;">소년한길</td>
+        <td class="stext" style="text-align: center; width: 750px;">자기가 해달라는 것마다 안된다고 말하는 엄마 아빠에게 화가 난 렝켄은 요정을 찾아가 "안돼!"라고 말할 때마다 키가 반으로 줄어드는 마법의 설탕 두 조각을 얻는다. 엄마 아빠의 키가 손톱 크기만큼 줄어들자 두려움을 느낀 렝켄은 요정에게 “엄마 아빠를 되돌려 달라”고 호소하고, 지혜로운 요정은 렝켄과 부모를 화해시킬 절묘한 마법을 선물한다. 부모와 자녀...</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-어린이</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">67</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788947525954</td>
+        <td class="stext" style="text-align: center; width: 100px;">2506875</td>
+        <td class="stext" style="text-align: center; width: 150px;">내 아이를 위한 사랑의 기술</td>
+        <td class="stext" style="text-align: center; width: 100px;">11,700원</td>
+        <td class="stext" style="text-align: center; width: 100px;">650원</td>
+        <td class="stext" style="text-align: center; width: 100px;">존 가트맨/남은영</td>
+        <td class="stext" style="text-align: center; width: 100px;">한국경제신문사(한경비피)</td>
+        <td class="stext" style="text-align: center; width: 750px;">'감정은 다 받아주되, 행동은 고쳐주라'로 요약되는 '감정코치법'은 『부모와 아이 사이』를 쓴 하임 기너트 박사가 처음 주창한 것인데, 그 이론을 5단계로 나눠 구체적인 행동지침을 마련한 것이 바로 존 가트맨 박사의 이 책이다. 2006년 MBC 스페셜 - 내 아이를 위한 사랑의 기술'의 모태가 되면서 많은 이들의 주목을 받았다. 아이가 어떤 문제에 부딪혔을 때, 그 감정을 충분히 발산하지 않으면 감정 체계 어딘가가 정체되고, 그것이 이후 또다른 문제 해결시 영향을 미칠 수 있다는 사실을 많은 통계와 사례를 통해 증명하고 있다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-가정 살림</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">68</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788975607707</td>
+        <td class="stext" style="text-align: center; width: 100px;">3056446</td>
+        <td class="stext" style="text-align: center; width: 150px;">세상 모든 왕비를 위한 재테크</td>
+        <td class="stext" style="text-align: center; width: 100px;">13,780원</td>
+        <td class="stext" style="text-align: center; width: 100px;">720원</td>
+        <td class="stext" style="text-align: center; width: 100px;">권선영</td>
+        <td class="stext" style="text-align: center; width: 100px;">길벗</td>
+        <td class="stext" style="text-align: center; width: 750px;">결혼 10년만에 10억을 만들었던 '왕비' 권선영이 돌아왔다. 그동안 그녀의 자산은 50억으로 늘어났고, 재테크 아마추어였던 그녀는 프로 투자가로 성장했다.『세상 모든 왕비를 위한 재테크』는 지난 13년 간 그녀가 걸어온 재테크 과정을 1년 단위로 전개하여 설명하고 있다.
+
+왕비의 투자방식은 역발상 투자와 발품 투자로 요약된다. 왕비는 역발상 투자를 감행했고, 이를  발판 삼아 상가, 아파트, 토지까지 투자분야를 넓힌다. 또한 왕비는 열심히 공부한 끝에 자기만의 투자방식을 찾아 13년 후, 큰 결실을 거두었다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-경제 경영</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">69</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788960861251</td>
+        <td class="stext" style="text-align: center; width: 100px;">3024674</td>
+        <td class="stext" style="text-align: center; width: 150px;">나는 경매투자로 희망을 베팅했다</td>
+        <td class="stext" style="text-align: center; width: 100px;">11,700원</td>
+        <td class="stext" style="text-align: center; width: 100px;">650원</td>
+        <td class="stext" style="text-align: center; width: 100px;">이승호</td>
+        <td class="stext" style="text-align: center; width: 100px;">위즈덤하우스</td>
+        <td class="stext" style="text-align: center; width: 750px;">1,500만 원의 빚으로 신혼살림을 시작해 처가살이에 물 새는 반지하 단칸방 생활까지 밑바닥을 전전해온 가난한 가장이 있었다. 그에게는 카드 5장이 별 탈 없이 돌아가는 게 최대 과제였다. 그러나 6년 후 그는 부동산 20억을 포함하여 총 30억 원의 자산을 가진 어엿한 부자 아빠가 되었다. 이는 소설이나 드라마가 아닌, 몇 년 전 『400만원으로 2억 만든 젊은 부자의 부동산 경매 투자일기』의 실제 주인공으로 화제를 모았던 이승호 씨의 이야기다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-경제 경영</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">70</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788932019000</td>
+        <td class="stext" style="text-align: center; width: 100px;">3070555</td>
+        <td class="stext" style="text-align: center; width: 150px;">밤은 노래한다</td>
+        <td class="stext" style="text-align: center; width: 100px;">9,900원</td>
+        <td class="stext" style="text-align: center; width: 100px;">550원</td>
+        <td class="stext" style="text-align: center; width: 100px;">김연수</td>
+        <td class="stext" style="text-align: center; width: 100px;">문학과지성사</td>
+        <td class="stext" style="text-align: center; width: 750px;">500여 명의 혁명가가 적이 아니라 동지의 손에 의해 죽어갔다면, 그 속에는 기막힌 사연들이 수도 없이 많을 것이다. 1930년대 간도에서 벌어진 '민생단 사건'을 다룬 이 소설은, 작가 김연수가 수년에 걸쳐 '도저히 쓸 수 없다'는 생각과 '너무나 쓰고 싶다'는 열망 속에서 치열하게 완성한 걸작이다.
+</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-소설/시/희곡</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">71</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788901088037</td>
+        <td class="stext" style="text-align: center; width: 100px;">3082656</td>
+        <td class="stext" style="text-align: center; width: 150px;">행복의 지도</td>
+        <td class="stext" style="text-align: center; width: 100px;">12,420원</td>
+        <td class="stext" style="text-align: center; width: 100px;">690원</td>
+        <td class="stext" style="text-align: center; width: 100px;">에릭 와이너/김승욱</td>
+        <td class="stext" style="text-align: center; width: 100px;">웅진지식하우스</td>
+        <td class="stext" style="text-align: center; width: 750px;">행복을 찾아 떠난 투덜이!
+행복의 나라로 갈 테야~
+
+행복은 마음 속에 있다고 부르짖는 작가는 많았지만, 행복한 나라를 찾아 세계 곳곳을 여행한 작가는 없었다. 세금 안 걷는 나라에 가면 행복할까? 아름다운 휴양지에서 살면 어떨까? '지상에서 가장 행복한 곳'을 찾아 떠난 기상천외한 여행기이자 행복의 정체를 밝히려는 흥미로운 모험담. 인류가 이제껏 말해왔던 행복에 대한 정의가 유쾌하게 비틀린다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-에세이</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">72</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788989847465</td>
+        <td class="stext" style="text-align: center; width: 100px;">2374810</td>
+        <td class="stext" style="text-align: center; width: 150px;">하루 15분 책읽어주기의 힘</td>
+        <td class="stext" style="text-align: center; width: 100px;">10,800원</td>
+        <td class="stext" style="text-align: center; width: 100px;">600원</td>
+        <td class="stext" style="text-align: center; width: 100px;">짐 트렐리즈</td>
+        <td class="stext" style="text-align: center; width: 100px;">북라인</td>
+        <td class="stext" style="text-align: center; width: 750px;">1979년 처음 출간되어 2006년 개정 6판이 출간되기까지 부모와 교사들의 입소문을 타고 200만 부가 판매된 스테디셀러. 아이에게 왜 책을 꾸준히 읽어주어야 하는지, 언제부터 언제까지 읽어주어야 하는지, 어떤 순서로 읽어주어야 하는지, 혼자 읽기는 어떻게 지도해야 하는지, 그리고 이 과정에서 무엇을 하고 무엇을 하면 안 되는지를 부모의 살아 있는 경험을 토대로 찬찬히 설명함으로써 아이를 책을 좋아하는 사람으로 키우는 방법을 전한다. 책 뒤에는 아동도서를 꼼꼼히 살펴볼 시간이 없는 부모들을 위해 그림책부터 소설까지 읽...</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-가정 살림</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">73</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788956052854</td>
+        <td class="stext" style="text-align: center; width: 100px;">3008506</td>
+        <td class="stext" style="text-align: center; width: 150px;">지식 e 3</td>
+        <td class="stext" style="text-align: center; width: 100px;">11,520원</td>
+        <td class="stext" style="text-align: center; width: 100px;">640원</td>
+        <td class="stext" style="text-align: center; width: 100px;">EBS 지식채널ⓔ</td>
+        <td class="stext" style="text-align: center; width: 100px;">북하우스</td>
+        <td class="stext" style="text-align: center; width: 750px;">EBS 지식채널ⓔ 에서 방송된 내용을 책으로 담아낸『지식e』시리즈 3번째 권. 방송금지 사태로 논란을 불러일으킨 ‘17년 후’와 영어 몰입 교육을 다룬 ’경쟁력의 조건’등 당대의 예민한 시사쟁점을 다루면서 이와 관련한 풍부한 생각거리를 제공해 준다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-인문</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">74</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788959192151</td>
+        <td class="stext" style="text-align: center; width: 100px;">3081410</td>
+        <td class="stext" style="text-align: center; width: 150px;">본격 제2차 세계대전 만화 1</td>
+        <td class="stext" style="text-align: center; width: 100px;">9,900원</td>
+        <td class="stext" style="text-align: center; width: 100px;">550원</td>
+        <td class="stext" style="text-align: center; width: 100px;">굽시니스트</td>
+        <td class="stext" style="text-align: center; width: 100px;">애니북스</td>
+        <td class="stext" style="text-align: center; width: 750px;">2007년 흔히 ‘오타쿠’의 집합소라고 여겨지는 디시인사이드나 이글루 블로그에 선보여진 후, 네티즌의 열렬한 지지를 받은 『본격 2차 세계대전 만화』가 단행본으로 출간되었다. 히틀러가 나치에 입문하여 독일의 정권을 잡을 때부터 제2차 세계대전에서 패퇴할 때까지의 이야기를 풀어낸 이 작품은 단순한 패러디물로 치부될 수 있는 이 만화는 다름 아니라 지금까지 출간된 그 어떤 2차대전 관련 콘텐츠보다 넓고 깊은 이해를 도울 것이다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-만화/라이트노벨</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">75</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788937832338</td>
+        <td class="stext" style="text-align: center; width: 100px;">3045112</td>
+        <td class="stext" style="text-align: center; width: 150px;">영화처럼</td>
+        <td class="stext" style="text-align: center; width: 100px;">10,800원</td>
+        <td class="stext" style="text-align: center; width: 100px;">600원</td>
+        <td class="stext" style="text-align: center; width: 100px;">가네시로 가즈키/김난주</td>
+        <td class="stext" style="text-align: center; width: 100px;">북폴리오</td>
+        <td class="stext" style="text-align: center; width: 750px;">『GO』,『레볼루션 No.3』 등 뜨거운 청춘소설의 대명사, 가네시로 가즈키가 새 책을 들고 다시 찾아왔다. 영화 다섯 편을 계기로 펼쳐지는 우정과 사랑, 웃음과 감동의 이야기! 그는 말한다. 개똥같은 현실의 결말을 바꾸는 것이 바로 이야기의 힘이라고. 그런 유쾌함이 바로 가네시로 가즈키 소설의 힘이다! 
+
+'태양은 가득히', '정무문' 등 영화 다섯 편을 계기로 펼쳐지는 정의, 로맨스, 복수, 우정, 그리고 웃음과 감동의 이야기 다섯 편이 실려 있다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-소설/시/희곡</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">76</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788990700162</td>
+        <td class="stext" style="text-align: center; width: 100px;">1953972</td>
+        <td class="stext" style="text-align: center; width: 150px;">[2006년판] 해커스 토익 READING</td>
+        <td class="stext" style="text-align: center; width: 100px;">17,860원</td>
+        <td class="stext" style="text-align: center; width: 100px;">190원</td>
+        <td class="stext" style="text-align: center; width: 100px;">데이비드 조</td>
+        <td class="stext" style="text-align: center; width: 100px;">해커스어학연구소</td>
+        <td class="stext" style="text-align: center; width: 750px;">해커스 토익 READING 교재. 문법, 독해, 어휘에서 실전까지 최신 실전문제를 최다 수록하였고, New TOEIC 완벽 분석과 전략을 제시하였다. 기본서와 실전문제집을 합쳐놓은 교재로, 토익 핵심 문법을 체계적으로 정리할 수 있으며, 최신 토익 빈출 어휘, 독해 빈출 구문 등에 대해 집중적으로 공부할 수 있다. 30일 완성 단어 암기장, 단원별 연습문제, 상세한 해설과 해석이 수록되어 있다....</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-국어 외국어 사전</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">77</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788991147515</td>
+        <td class="stext" style="text-align: center; width: 100px;">1949215</td>
+        <td class="stext" style="text-align: center; width: 150px;">돈 걱정 없는 노후 30년</td>
+        <td class="stext" style="text-align: center; width: 100px;">9,900원</td>
+        <td class="stext" style="text-align: center; width: 100px;">550원</td>
+        <td class="stext" style="text-align: center; width: 100px;">최병희/고득성/정성진</td>
+        <td class="stext" style="text-align: center; width: 100px;">다산북스</td>
+        <td class="stext" style="text-align: center; width: 750px;">자산평가 방법부터 노후자금 마련 방법까지, 실천적 노후대책 지침을 수록하고 있는 책이다. 이 책은 자칫 딱딱해지기 쉬운 노후대책에 대한 이야기를 쉽고도 재미있게 풀어내고 있으며 쉽고 재미있으면서도 노후준비에 필요한 정보를 알차게 제공하고 있다. 특별히 이 책은 2006년에 출간되었던 책의 증보판ㅇ로 4장 세대별 실전지침에서 각 세대별 대표 사례를 추가하여 자산설계의 기능을 보다 강화하였다.
+
+35세의 어느 날, 35년 후의 미래를 미리 경험하게 되는 이 책의 주인공 김민석 씨.</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-경제 경영</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">78</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788957973523</td>
+        <td class="stext" style="text-align: center; width: 100px;">3049235</td>
+        <td class="stext" style="text-align: center; width: 150px;">아침 바나나 다이어트</td>
+        <td class="stext" style="text-align: center; width: 100px;">8,100원</td>
+        <td class="stext" style="text-align: center; width: 100px;">450원</td>
+        <td class="stext" style="text-align: center; width: 100px;">하마치/와타나베 스미코</td>
+        <td class="stext" style="text-align: center; width: 100px;">넥서스</td>
+        <td class="stext" style="text-align: center; width: 750px;">유산소 운동이나 식사량 조절 등 각종 다이어트에 도전해 봤지만 결국 요요현상을 경험했던 저자가 약사이자 예방의학을 전공한 아내가 제안한 '아침 바나나 다이어트'를 통해 6개월 만에 13kg를 감량할 수 있었던 체험을 바탕으로 소개한다.
+ 
+아침을 거르지 않고 물과 바나나를 먹는 것이 전부인 '아침 바나나 다이어트'는 시간과 돈이 많이 들지 않아 스트레스 없이 할 수 있는 획기적인 다이어트 방법이다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">3</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-건강 취미</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">79</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788970940564</td>
+        <td class="stext" style="text-align: center; width: 100px;">2439</td>
+        <td class="stext" style="text-align: center; width: 150px;">달님 안녕</td>
+        <td class="stext" style="text-align: center; width: 100px;">8,550원</td>
+        <td class="stext" style="text-align: center; width: 100px;">470원</td>
+        <td class="stext" style="text-align: center; width: 100px;">하야시 아키코</td>
+        <td class="stext" style="text-align: center; width: 100px;">한림출판사</td>
+        <td class="stext" style="text-align: center; width: 750px;">설명이 필요없는, 너무너무 유명한 우리 아기 첫 그림책. 돌 전후 아이가 있는 집이라면 누구나 꼭 한권씩 갖추고 있는 필독서다. 지붕 위에 나타난 달님에게 인사하고, 달님을 가린 구름 아저씨를 보며 울상을 짓고, 혓바닥을 내민 달님을 따라하는 등 '안녕'이라든지 이제 갓 '까꿍놀이'를 시작한 아이들이라면 쉽게 인지할 수 있는 단순한 스토리 라인 덕택에 돌잡이 첫 그림책으로 30년이 지난 오늘 날까지도 사랑받고 있다. 이런 촌스런 그림이 아이들에게 먹힐까 반신반의 하는 부모들이라면, 말도 못하는 아기가 달님의 동선을 따?..</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-유아</td>
+     </tr>
+     
+     <tr bgcolor="FFFFFF">
+        <td class="stext" style="text-align: center; width: 50px;">80</td>
+        <td class="stext" style='mso-number-format:"\@";text-align: center; width: 120px;'>9788937842252</td>
+        <td class="stext" style="text-align: center; width: 100px;">3103607</td>
+        <td class="stext" style="text-align: center; width: 150px;">내일은 실험왕 8</td>
+        <td class="stext" style="text-align: center; width: 100px;">10,620원</td>
+        <td class="stext" style="text-align: center; width: 100px;">590원</td>
+        <td class="stext" style="text-align: center; width: 100px;">곰돌이 co./홍종현/박완규</td>
+        <td class="stext" style="text-align: center; width: 100px;">미래엔아이세움</td>
+        <td class="stext" style="text-align: center; width: 750px;">본격 대결 과학실험 만화 『내일은 실험왕』은 초등학생들의 신나는 실험 이야기를 통해 아이들에게 어려운 과학 원리와 용어를 쉽게 전달하는 최초의 실험 대결 만화입니다. 재미있는 실험을 통해 아이들이 과학에 대해 두려움을 갖지 않고 재미있게 즐길 수 있는 대상으로 인식할 수 있는 기회를 줍니다. 
+
+주인공들의 실험반 활동을 통해 초등학교 고학년 교과서에 수록된 실험 과정과 그에 관련된 과학 이론을 자연스럽게 볼 수 있습니다.</td>
+        <td class="stext" style="text-align: center; width: 80px;">1</td>
+        <td class="stext" style="text-align: center; width: 150px;">국내도서-어린이</td>
+     </tr>
+     
+</table>
+ 
