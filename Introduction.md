@@ -4,5 +4,8 @@
 
 This project attempts to study society through the analysis of Kyobo bestsellers. 
 
-See Presentation Website:
+News article:
+http://it.chosun.com/site/data/html_dir/2019/12/14/2019121400358.html
+
+See presentation website:
 https://sohnjihyun.wixsite.com/bestseller-analysis
